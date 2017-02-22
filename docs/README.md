@@ -17,7 +17,7 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 - `"You won't get to where you're going if you stop to throw a rock at every dog that barks" - Winston Churchill.` 
 
-  An important reminder for me to not get bogged down in details, despite the dopamine hit of correcting a small error. 
+  An important reminder for me to not get bogged down in things that aren't vital, despite the dopamine hit of fixing small errors. 
 
 
 # Values 
