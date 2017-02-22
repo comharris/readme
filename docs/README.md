@@ -4,7 +4,7 @@ If you meet me in person, this page is a way to understand who I am and how I th
 
 # Readings
 
-## Values 
+## Setting Values 
 
 - [Amazon's 14 leadership principles](https://www.amazon.jobs/principles) - Criteria for leaders in high performance, long-term focused organization. 
 
@@ -18,4 +18,14 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 - `"You won't get to where you're going if you stop to throw a rock at every dog that barks" - Winston Churchill.` 
 
   An important reminder for me to not get bogged down in details, despite the dopamine hit of correcting a small error. 
+
+
+# Values 
+
+Values are deliberate choices defining our behavior.  When facing complexity, uncertainty, or ambiguity (CUA) we determine our point of view and our actions through the lens of our values. Here are some I use:
+
+- **Minimize regret** - This is about making decisions from the perspective of being 80 years old and looking back. It helps highlight the difference between short term and long term priorities. 
+
+- **Others-centered** - Putting yourself in the minds and contexts of other people to understand where they're coming from and how what you're doing affects them. I got this idea from [Mark Canlis](http://canlis.com/about/people/our-team/mark-canlis/) when he gave a talk about running a restaurant, and at some point there's going to be chaos and disaster and when it happens the one thing he wants his team to keep in mind is being "others-centered". 
+
 
