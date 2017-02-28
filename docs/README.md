@@ -20,6 +20,10 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 - **[War of Art](http://www.stevenpressfield.com/the-war-of-art/)** - Book on how to overcome resistance to things we need to do, but don't want to do. It's about professional writing specifically, but can apply to many things we need to do and put off. 
 
 
+## Art 
+
+- **"Eternity is in love with the productions of time" - William Blake** - This is from a poem so open to interpretation. Mind is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. So what seems fleeting and ephemeral had a grander significance than we can imagine. I used to like this other quote from the movie "Gladiator" which was "what we do in life echoes on in eternity", but now I feel like that line is like a reductive, Hollywood-version of what I now consider the original (Maybe because after he says the line, the General leading the armies of Rome rushes into the front line of battle to do hand-to-hand combat).
+
 # Values 
 
 Values are deliberate choices defining our behavior.  When facing complexity, uncertainty, or ambiguity (CUA) we determine our point of view and our actions through the lens of our values. Here are some I use:
