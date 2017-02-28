@@ -19,6 +19,9 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
   An important reminder for me to not get bogged down in things that aren't vital, despite the dopamine hit of fixing small errors. 
 
+- [War of Art](http://www.stevenpressfield.com/the-war-of-art/) - Book on how to overcome resistance to things we need to do, but don't want to do. It's about professional writing specifically, but can apply to many things we need to do and put off. 
+
+
 # Values 
 
 Values are deliberate choices defining our behavior.  When facing complexity, uncertainty, or ambiguity (CUA) we determine our point of view and our actions through the lens of our values. Here are some I use:
