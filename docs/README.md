@@ -34,4 +34,7 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 
 - **Others-centered** - Putting yourself in the minds and contexts of other people to understand where they're coming from and how what you're doing affects them. I got this idea from [Mark Canlis](http://canlis.com/about/people/our-team/mark-canlis/) when he gave a talk about running a restaurant, and at some point there's going to be chaos and disaster and when it happens the one thing he wants his team to keep in mind is being "others-centered". 
 
+# Hiring 
+
+- **Academic distinction helps** - What we do when we're young has life-long impact. Academics, leadership, sports, hobbies significantly shape who we are. Distinction suggests either talent or effort, and often both. While we shouldn't discount "late bloomers", early bloomers have the advantage.  
 
