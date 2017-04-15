@@ -2,7 +2,19 @@ Hi, I'm Ian. I'm trying out GitHub pages and decided to write-up some materials 
 
 If you meet me in person, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have. 
 
+# Working with me
+
+Here's some things to know about working with me: 
+
+1. **I think of things in terms of 1 or 0.** Either things are excellent and as they should be, or things are wrong and need to be fixed. It'd difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information.   
+
+2. **I may ask specific questions.** When discussing something important or urgent, I may ask specific, close-ended questions to more quickly understand a situation. For example: How long has the regression been known to exist in the product? Who's responsible for replying to the contributor? This may make people feel invasive to some people, who have a more casual style of conversation. Please understand I have no intention of treating people differently, I am just trying to understand facts quickly. 
+
+3. **When exploring new ideas, I may explore multiple contradictory approaches at the same time.** As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to see if the consensus starts to fall apart, or if we end up at the same conclusion. That said, once we have agreement, I am 100% behind the direction and will repeated it endlessly.
+
 # Readings
+
+I believe nothing shapes a person more than what they read and the people they spend time with. To know me better, here is some of what I read: 
 
 ## Setting Values 
 
