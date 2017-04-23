@@ -31,6 +31,9 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 - **[War of Art](http://www.stevenpressfield.com/the-war-of-art/)** - Book on how to overcome resistance to things we need to do, but don't want to do. It's about professional writing specifically, but can apply to many things we need to do and put off. 
 
+## Persistence 
+
+- **"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." - Michael Jordan** - A reminder to be okay when you fail at something. 
 
 ## Art 
 
