@@ -43,7 +43,7 @@ Below are some thoughts and readings that influence my thinking and world view:
 ## Delegation 
 
 - **[Leadership, Decision-Making and Emotion Management](
-http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-management.html)** - An idea on when to decide and when to delegate decisions and the processes in-between. 
+http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-management.html)** - This article outlines different approaches to decision making, I'm focused on approaches 3 to 7.
 
 ## Prioritization 
 
