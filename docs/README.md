@@ -2,9 +2,7 @@ Hi, I'm Ian.
 
 This is my README page to get to know how I operate.  
 
-My intention is to provide basic information on how I think and make decisions for people working with me. 
-
-Time is all we have and I hope we make good use of it together. 
+If we are potentially working together, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have.
 
 # Working with me
 
@@ -24,7 +22,7 @@ Here's some things to know about working with me:
 
 # Mindsets
 
-Below are some quotes, thoughts and readings that influence my thinking and world view: 
+Below are some thoughts and readings that influence my thinking and world view: 
 
 ## Strategy
 
