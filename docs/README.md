@@ -26,6 +26,8 @@ Here are some things to know about me in special situations:
 
 3. **If you're not a native English speaker, I'm happy to speak slower and more simply. Please signal to me to do this.** - Signalling me with a facial expression or just letting me know if I'm difficult to understand is highly appreciated. In addition to English, I speak conversational Mandarin in an accent that can make me sound more fluent than I am. I struggle when a native speaker uses advanced vocabulary.  
 
+4. **If you're not Canadian, you may think I say "sorry" unnecessarily.** - This is how I grew up and I realize it sometimes causes confusion. When I say "sorry" it sometimes means I am empathetically disappointed that things could not be in a more ideal state (short for "I'm sorry to hear that"), and sometimes it means I'm apologizing for an error that I made. 
+
 # Mindsets
 
 Below are some thoughts and readings that influence my thinking and world view: 
