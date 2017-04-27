@@ -1,3 +1,3 @@
-# reading
+# README 
 
-This is a project to try out GitHub Pages and to document for myself some materials I'd like to keep handy. 
+This is a README file for Ian Tien. 
