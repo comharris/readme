@@ -1,4 +1,6 @@
-Hi, I'm Ian. I'm trying out GitHub pages and decided to write-up some materials on what I'm reading. In my mind, there's nothing that shapes who you are more than the people you spend time with and the materials that you read, so I wanted to share at least part of what's shaping me. 
+Hi, I'm Ian. 
+
+This is my public README page to get to know how I operate.  
 
 If you meet me in person, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have. 
 
