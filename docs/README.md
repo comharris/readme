@@ -8,7 +8,7 @@ If we are potentially working together, this page is a way to understand who I a
 
 Here's some basic things to know about working with me: 
 
-1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. 
+1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. I understand that not everyone thinks this way, or should think this way, this is just how I think. 
 
 2. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
 
