@@ -6,19 +6,25 @@ If we are potentially working together, this page is a way to understand who I a
 
 # Working with me
 
-Here's some things to know about working with me: 
+Here's some basic things to know about working with me: 
 
-1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be, or things are wrong and need to be fixed. It'd difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. 
+1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. 
 
-2. **Sometimes I ask a series of precise, close-ended questions.** When discussing something important, I ask very specific questions like: "How long has the regression been known to exist in the product?", "Who's responsible for replying to the contributor?", "When was the last time that person replied to any contributor?" This line of questions may seem uncomfortable to some people who prefer a more casual style of conversation. Please understand I have no intention of treating people differently, I am just trying to understand facts quickly. 
+2. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
 
-3. **When exploring new ideas, I want to consider multiple possibilities.** As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to see if the consensus falls apart, or if other paths are properly eliminated and we end up at the same conclusion. That said, once we have agreement, I am 100% behind the direction and will repeated it endlessly.
+3. **I'm an extrovert.** My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. 
 
-4. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
+4. **I'm logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion.
 
-5. **I'm an extrovert.** My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. 
+## Special situations
 
-6. **I'm logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion.
+Here are some things to know about me in special situations: 
+
+1. **Sometimes I ask a series of precise, close-ended questions.** When discussing something important, I ask very specific questions like: "How long has the regression been known to exist in the product?", "Who's responsible for replying to the contributor?", "When was the last time that person replied to any contributor?" This line of questions may seem uncomfortable to some people who prefer a more casual style of conversation. Please understand I have no intention of treating people differently, I am just trying to understand facts quickly. 
+
+2. **When exploring new ideas, I consider multiple possibilities at the same time.** As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to see if the consensus falls apart, or if other paths are properly eliminated and we end up at the same conclusion. That said, once we have agreement, I am 100% behind the direction and will repeated it endlessly.
+
+3. **If you're not a native English speaker, I'm happy to speak slower and more simply. Please signal to me to do this.** - Signalling me with a facial expression or just letting me know if I'm difficult to understand is highly appreciated. In addition to English, I speak conversational Mandarin in an accent that can make me sound more fluent than I am. I struggle when a native speaker uses advanced vocabulary.  
 
 # Mindsets
 
@@ -68,7 +74,3 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 # Quirks
 
 - **I tend to tie everything to principles and process.** - We never get our time back. To make the most out of all the time we have, I tend to find principles and processes for both large and small decisions. As an example, when ordering at a new restaurant I'll tend to find out from the server which dishes are most popular and order the popular option 80-90% of the time. 
-
-
-
-
