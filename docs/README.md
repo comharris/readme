@@ -20,7 +20,7 @@ I believe nothing shapes a person more than what they read and the people they s
 
 ## Strategy
 
-- **Strategy is Destiny** - One phrase I'll often repeat is "find the path to victory before the battle begins". A correct strategy once formulated should seem obvious, like the "difference between a pound weight measured against a feather." I tend to think short term and long term at the same time. I am more comfortable with ambiguity and uncertainty in areas than with having a strategy that is incorrect. 
+- **Strategy is Destiny** - One phrase I'll often repeat is "find the path to victory before the battle begins". A correct strategy once formulated should seem obvious, like the "difference between a pound weight measured against a feather." I tend to think short term and long term at the same time. I am comfortable with ambiguity and uncertainty, but I am not comfortable with a strategy that is incorrect. 
 
 ## Setting Values 
 
