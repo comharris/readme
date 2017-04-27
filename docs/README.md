@@ -69,7 +69,9 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 
 # Hiring 
 
-- **Hire for drive** - Two variables determine individual performance: Drive and training. Someone with incredible drive, who may be less experienced and less gifted at the outset, will outperform people with more stature over time. Drive means growth, and growth is everything. 
+- **Values first, then aptitude, then domain expertise** - Alignment of values is the most important variable in a team. Person A 100% aligned at 70% output is far better than someone 70% aligned at 100% output. Output can be increased through training and experience, but alignment cannot. Next, aptitude is more important than domain expertise since expertise can be developed or outsourced but raw aptitude is constant. Another way to state it: "hire for CPU, not hard disk". 
+ 
+- **Drive is vital** - Two variables determine individual performance: Drive and training. Someone with incredible drive, who may be less experienced and less gifted at the outset, will outperform people with more stature over time. Drive means growth, and growth is everything.
 
 - **Academic distinction helps** - What we do when we're young has life-long impact. Academics, leadership, sports, hobbies significantly shape who we are. Distinction suggests either talent or effort, and often both. While we shouldn't discount "late bloomers", early bloomers have the advantage.  
 
