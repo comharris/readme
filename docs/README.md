@@ -43,9 +43,7 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 ## Art 
 
-- **"Eternity is in love with the productions of time" - William Blake** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. So what seems fleeting and ephemeral has a grander significance than we can imagine.
-
-  I used to like this other quote from the movie "Gladiator" which was "what we do in life echoes on in eternity", but now I feel like that line is a reductive, Hollywood-version of the original (Maybe because after he says the line, the General leading the armies of Rome rushes into the front line of battle to do hand-to-hand combat).
+- **"Eternity is in love with the productions of time" - William Blake** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. I believe what seems fleeting and ephemeral to us has a grander significance than we can imagine.
 
 # Values 
 
