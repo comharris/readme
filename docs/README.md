@@ -65,7 +65,7 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 
 - **Minimize regret** - This is about making decisions from the perspective of being 80 years old and looking back. It helps highlight the difference between short term and long term priorities. 
 
-- **Others-centered** - Putting yourself in the minds and contexts of other people to understand where they're coming from and how what you're doing affects them. I got this idea from [Mark Canlis](http://canlis.com/about/people/our-team/mark-canlis/) when he gave a talk about running a restaurant, and at some point there's going to be chaos and disaster and when it happens the one thing he wants his team to keep in mind is being "others-centered". 
+- **Others-centered** - Putting yourself in the minds and contexts of other people to understand where they're coming from and how what you're doing affects them. I'm influenced here by [Mark Canlis](http://canlis.com/about/people/our-team/mark-canlis/) who runs a restaurant and when there's chaos and disaster all he wants his team to keep in mind is being "others-centered", and everything works. 
 
 # Hiring 
 
