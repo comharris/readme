@@ -14,6 +14,8 @@ Here's some things to know about working with me:
 
 3. **When exploring new ideas, I explore multiple contradictory approaches at the same time.** As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to see if the consensus falls apart, or if it's elimiated and we end up at the same conclusion. That said, once we have agreement, I am 100% behind the direction and will repeated it endlessly.
 
+4. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
+
 # Readings
 
 I believe nothing shapes a person more than what they read and the people they spend time with. To know me better, here is some of what I read: 
