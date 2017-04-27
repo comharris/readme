@@ -1,14 +1,16 @@
 Hi, I'm Ian. 
 
-This is my public README page to get to know how I operate.  
+This is my README page to get to know how I operate.  
 
-If you meet me in person, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have. 
+My intention is to provide basic information on how I think and make decisions for people working with me. 
+
+Time is all we have and I hope we make good use of it together. 
 
 # Working with me
 
 Here's some things to know about working with me: 
 
-1. **I think of things in terms of 1 or 0.** Either things are correct and excellent and as they should be, or things are wrong and need to be fixed. It'd difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. 
+1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be, or things are wrong and need to be fixed. It'd difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. 
 
 2. **Sometimes I ask a series of precise, close-ended questions.** When discussing something important, I ask very specific questions like: "How long has the regression been known to exist in the product?", "Who's responsible for replying to the contributor?", "When was the last time that person replied to any contributor?" This line of questions may seem uncomfortable to some people who prefer a more casual style of conversation. Please understand I have no intention of treating people differently, I am just trying to understand facts quickly. 
 
@@ -16,9 +18,13 @@ Here's some things to know about working with me:
 
 4. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
 
-# Readings
+5. **I'm an extrovert.** My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. 
 
-I believe nothing shapes a person more than what they read and the people they spend time with. To know me better, here is some of what I read: 
+6. **I'm logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion.
+
+# Mindsets
+
+Below are some quotes, thoughts and readings that influence my thinking and world view: 
 
 ## Strategy
 
@@ -60,7 +66,6 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 - **Hire for drive** - Two variables determine individual performance: Drive and training. Someone with incredible drive, who may be less experienced and less gifted at the outset, will outperform people with more stature over time. Drive means growth, and growth is everything. 
 
 - **Academic distinction helps** - What we do when we're young has life-long impact. Academics, leadership, sports, hobbies significantly shape who we are. Distinction suggests either talent or effort, and often both. While we shouldn't discount "late bloomers", early bloomers have the advantage.  
-
 
 # Quirks
 
