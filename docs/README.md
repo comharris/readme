@@ -10,11 +10,13 @@ Here's some basic things to know about working with me:
 
 1. **Most things are 1 or 0 to me.** Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. I understand that not everyone thinks this way, or should think this way, this is just how I think. 
 
-2. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
+2. **I'm influenced by facts, data and new perspectives.** If you show me facts, data or a framing that brings me to a different conclusion, I can change my view on something quickly. I work best with people who are comfortable having a dialog. 
 
 3. **I'm an extrovert.** My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. 
 
-4. **I aspire to be logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to not let it over influence my final decision. 
+4. **I think in systems.** In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. The song [the Hook](http://www.avclub.com/article/why-hook-by-blues-traveler-is-actually-a-pretty-ge-83392) by Blues Traveller is a wonderful example of understanding music as a system. 
+
+5. **I aspire to be logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to not let it over influence my final decision. 
 
 ## Special situations
 
