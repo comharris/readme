@@ -14,7 +14,7 @@ Here's some basic things to know about working with me:
 
 3. **I'm an extrovert.** My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. 
 
-4. **I'm logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion.
+4. **I aspire to be logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to not let it over influence my final decision. 
 
 ## Special situations
 
