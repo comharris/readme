@@ -75,7 +75,7 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
  
 - **Drive is vital** - Two variables determine individual performance: Drive and training. Someone with incredible drive, who may be less experienced and less gifted at the outset, will outperform people with more stature over time. Drive means growth, and growth is everything.
 
-- **Academic distinction helps** - What we do when we're young has life-long impact. Academics, leadership, sports, hobbies significantly shape who we are. Distinction suggests either talent or effort, and often both. While we shouldn't discount "late bloomers", early bloomers have the advantage.  
+- **Academic distinction helps** - What we do when we're young has life-long impact. Academics, leadership, sports, hobbies significantly shape who we are. Distinction suggests either talent or effort, and often both. While we shouldn't discount "late bloomers", it's easier to see the success of early bloomers echoing through life. 
 
 # Quirks
 
