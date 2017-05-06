@@ -30,3 +30,4 @@ Here are some things to know about me in special situations:
 
 4. **If you're not Canadian, you may think I say "sorry" unnecessarily.** - This is how I grew up and I realize it sometimes causes confusion. When I say "sorry" it sometimes means I am empathetically disappointed that things could not be in a more ideal state (short for "I'm sorry to hear that"), and sometimes it means I'm apologizing for an error that I made. 
 
+For further reading about me, please see [mindsets documentation](mindsets).
