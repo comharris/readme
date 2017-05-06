@@ -4,6 +4,8 @@ This is my README page to get to know how I operate.
 
 If we are potentially working together, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have.
 
+You can read about what I do on [LinkedIn](https://www.linkedin.com/in/iantien/), and what I'm up to currently at [@iantien](https://twitter.com/iantien) on Twitter. 
+
 # Working with me
 
 Here's some basic things to know about working with me: 
