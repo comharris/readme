@@ -20,7 +20,7 @@ Here's some basic things to know about working with me:
 
 5. **I aspire to be logical.** In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to not let it over influence my final decision. 
 
-## B) How I behave
+# B) How I behave
 
 Here are some things to know about me in special situations: 
 
