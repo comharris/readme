@@ -1,7 +1,5 @@
 # README 
 
-This is Ian's README file. 
+Hi there, my name is Ian. 
 
-This was initially a project to try out GitHub Pages and I use it now as a way to meet new people asynchronously. 
-
-This repository updates the public web page: https://it33.github.io/readme
+This is a repository for the website https://it33.github.io/readme. The contents of that website are managed here, on GitHub.com. 
