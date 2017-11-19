@@ -8,8 +8,6 @@ If we are potentially socializing or working together, this page is a way to und
 
 You can read about what I do on [LinkedIn](https://www.linkedin.com/in/iantien/), and what I'm up to currently at [@iantien](https://twitter.com/iantien) on Twitter. 
 
-- How I think and behave 
-
 # How I think and behave 
 
 You can read my opinion about how [I think and behave](how_i_think). While I'm laying out my own impression about myself, I'm not able to be objective, so if you have feedback to share, I'd be appreciative. 
