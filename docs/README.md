@@ -10,16 +10,16 @@ It's not an exhaustive list--for example, I leave out family here, as not everyo
 
 # Basic info and biography
 
-You can read about what I do on [LinkedIn](https://www.linkedin.com/in/iantien/), and what I'm up to currently at [@iantien](https://twitter.com/iantien) on Twitter. 
+You can read about what I do professionally on [LinkedIn](https://www.linkedin.com/in/iantien/), and what I'm talking about on [Twitter](https://twitter.com/iantien). 
 
 # How I think and behave 
 
-You can read my opinion about how [I think and behave](how_i_think). While I'm laying out my own impression about myself, I'm not able to be objective, so if you have feedback to share, I'd be appreciative. 
+Here is my opinion about how [I think and behave](how_i_think). That said, I am learning constantly, and with new information and ideas, my own ideas change, so what you read here will probably drift over time. It's at least how I used to think.  
 
 # Mindsets
 
-This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasster lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arrises. 
+This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arrises. 
 
-# CEO and Friends Dinners
+# "CEO and Friends" Dinners
 
 Occassionally I'll co-host [CEO Dinners](ceo_dinners) for fellow CEOs and other friends, typically in San Francisco. I document the logistics here so that invitees can know what to expect--and can read up on me in advance if they're interested.  
