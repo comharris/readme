@@ -1,8 +1,12 @@
 Hi, I'm Ian. 
 
-This is my README page to get to know me. 
+This is my README page. Sometimes when you download a package of software it comes with a file called "README", which explains the contents of the package. 
 
-If we are potentially socializing or working together, this page is a way to understand who I am and how I think before and after the meeting, which hopefully saves everyone some time. And time is all we have.
+I've created a README file for myself, to help share a bit about me, including my own perception of how I think and how I behave. 
+
+If you and I are planning to meet, either socially, professionally or both, this page is a way to understand a bit more about me, if you are interested. 
+
+It's not an exhaustive list--for example, I leave out family here, as not everyone is comfortable being discussed on the internet--it's what I hope will be helpful to get to know me before or after we meet. 
 
 # Basic info and biography
 
