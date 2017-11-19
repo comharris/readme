@@ -18,4 +18,4 @@ This section details the [mindsets](mindsets) I use as tools to frame the world 
 
 # CEO and Friends Dinners
 
-Occassionally I'll co-host [CEO Dinners](how_i_think) for fellow CEOs and other friends, typically in San Francisco. I document the logistics here so that invitees can know what to expect--and can read up on me in advance if they're interested.  
+Occassionally I'll co-host [CEO Dinners](ceo_dinners) for fellow CEOs and other friends, typically in San Francisco. I document the logistics here so that invitees can know what to expect--and can read up on me in advance if they're interested.  
