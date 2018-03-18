@@ -18,17 +18,17 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 ## Prioritization 
 
-- **"You won't get to where you're going if you stop to throw a rock at every dog that barks" - Winston Churchill** - An important reminder for me to not get bogged down in things that aren't vital, despite the dopamine hit of fixing small problems. The natural habits I have for building new businesses need to be moderated as a CEO who needs to seek the highest possible leverage to increase organizational output. 
+- **"You won't get to where you're going if you stop to throw a rock at every dog that barks" (Winston Churchill)** - An important reminder for me to not get bogged down in things that aren't vital, despite the dopamine hit of fixing small problems. The natural habits I have for building new businesses need to be moderated as a CEO who needs to seek the highest possible leverage to increase organizational output. 
 
 - **[War of Art](http://www.stevenpressfield.com/the-war-of-art/)** - Book on how to overcome resistance to things we need to do, but don't want to do. It's about professional writing specifically, but can apply to many things we need to do and put off. 
 
 ## Persistence 
 
-- **"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." - Michael Jordan** - When we have a set back, this is a nice reminder that persistence pays off. 
+- **"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." (Michael Jordan)** - When we have a set back, this is a nice reminder that persistence pays off. 
 
 ## Art 
 
-- **"Eternity is in love with the productions of time" - William Blake** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. I believe what seems fleeting and ephemeral to us has a grander significance than we can imagine.
+- **"Eternity is in love with the productions of time" (William Blake)** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. I believe what seems fleeting and ephemeral to us can have a grander significance than we can imagine.
 
 # Values 
 
