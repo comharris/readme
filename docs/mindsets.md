@@ -48,4 +48,4 @@ Values are deliberate choices defining our behavior.  When facing complexity, un
 
 # Quirks
 
-- **I tend to tie everything to principles and process.** - We never get our time back. To make the most out of all the time we have, I tend to find principles and processes for both large and small decisions. As an example, when ordering at a new restaurant I'll tend to find out from the server which dishes are most popular and order the popular option 80-90% of the time. 
+- **I see the world in systems.** - I tend to think of all the things I do, both large and small, in terms of systems. I have a need to answer "why?" behind every decision I make and decisions I approve. As an example, my system for ordering food at a new restaurant is to say to the server "I need your help. Can you tell me which order is most popular, numerically? Which is the dish that people are asking for again and again and again?" About 80% of the time I'll order the most popular item, with the exception being tourist-heavy restaurants where the item seems the highest margin or the most expensive. 
