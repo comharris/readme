@@ -2,9 +2,9 @@ Hi, I'm Ian.
 
 This is my README page. Sometimes when you download a package of software it comes with a file called "README", which explains the contents of the package. 
 
-I've created a README file for myself, to help share a bit about me, including my own perception of how I think and how I behave. 
+I've created a README file for myself, to share a bit about me, including my own perception of how I think and how I behave. 
 
-If you and I are planning to meet, either socially, professionally or both, this page is a way to understand a bit more about me, if you are interested. 
+If you and I are planning to meet, either socially, professionally or both, I hope this page provides some context on me ahead of our discussion. 
 
 It's not an exhaustive list--for example, I leave out family here, as not everyone is comfortable being discussed on the internet--it's what I hope will be helpful to get to know me before or after we meet. 
 
@@ -14,11 +14,11 @@ You can read about what I do professionally on [LinkedIn](https://www.linkedin.c
 
 # How I think and behave 
 
-Here is my opinion about how [I think and behave](how_i_think). That said, I am learning constantly, and with new information and ideas, my own ideas change, so what you read here will probably drift over time. It's at least how I used to think.  
+Here is my opinion about how [I think and behave](how_i_think). That said, I am learning constantly, so please expect my views to change over time with new information. I'll endeavour to keep things updated here as I grow, and at least you'll see how I used to think. 
 
 # Mindsets
 
-This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arrises. 
+This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arises. 
 
 # "CEO and Friends" Dinners
 
