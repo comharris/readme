@@ -20,10 +20,6 @@ Here is my opinion about how [I think and behave](how_i_think). That said, I am 
 
 This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arises. 
 
-# Final Round Interviews 
-
-During the recruiting process at Mattermost, I may do preliminary meetings with candidates as well as final round interviews as CEO. To make the most of our time together, we share a link to this page for candidates to get to know me, and we also request candidates complete a [pre-interview form](https://goo.gl/forms/l2IjgxumPhTQmKwE2) so I can know more about them. 
-
 # "CEO and Friends" Dinners
 
 Occassionally I'll co-host [CEO Dinners](ceo_dinners) for fellow CEOs and other friends, typically in San Francisco. I document the logistics here so that invitees can know what to expect--and can read up on me in advance if they're interested.  
