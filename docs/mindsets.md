@@ -26,6 +26,8 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 - **"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." (Michael Jordan)** - When we have a set back, this is a nice reminder that persistence pays off. 
 
+- **"Repetition is the mother of learning, that makes it the father of action, that means it's the architect of accomplishment" (Zig Ziglar)** - As leaders, when we decide on vision, strategy and values, it's vital to just repeat relentlessly to align the organization towards proper execution. 
+
 ## Art 
 
 - **"Eternity is in love with the productions of time" (William Blake)** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. I believe what seems fleeting and ephemeral to us can have a grander significance than we can imagine.
