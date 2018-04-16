@@ -1,6 +1,6 @@
-# CEO & Friends Dinners
+# CEOs, Founders & Friends Dinners
 
-Musicians hang out with musicians, writers hang out with writers, and as a CEO I put together modest dinner parties with fellow CEOs and other friends. It's drinks and food, talking shop (culture, business, hiring, fundraising, vendors, etc.), and developing a community of peers who can help each other professionally and personally, as musicians or writers might do. 
+Musicians hang out with musicians, writers hang out with writers, and as a founding CEO I put together modest dinner parties with fellow CEOs, founders and other friends to hang out and talk shop. It's drinks and food, talking shop (culture, business, hiring, fundraising, vendors, etc.), and developing a community of peers who can help each other professionally and personally, as musicians or writers might do. 
 
 These are typically co-hosted by my good friend (and investor/board member), Shvet Jain, and we have them at a penthouse turned VC office in the South Park area in San Francisco. 
 
