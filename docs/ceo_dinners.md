@@ -9,3 +9,5 @@ These are typically co-hosted by my good friend (and investor/board member), Shv
 - My mobile phone number comes in the invite to help with directions. 
 
 The only ask I have is that if you do decide to come that you try to arrive between 5:30pm and 6:30pm, so we can get all the intros done at the beginning. 
+
+Guests are typically folks I've met at different events or experiences, most commonly YC and Stanford Business School (statistically a lot of founders come from there).  
