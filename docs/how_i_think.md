@@ -26,4 +26,6 @@ Here are some things to know about me in special situations:
 
 3. **If you're not a native English speaker, I'm happy to speak slower and more simply. Please signal to me to do this.** - Signalling me with a facial expression or just letting me know if I'm difficult to understand is highly appreciated. I know how you feel. In addition to English, I speak conversational Mandarin in an accent that can make me sound more fluent than I am. I struggle when a native speaker uses advanced vocabulary.
 
+## C) Tips on working with me
 
+1. **Please send me recommendations, avoid equal options** - I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I'm not sure" with you quickly and open the conversation to other options as needed. Please AVOID sending me multiple options and hiding your opinion, as my brain will consider the first option you present as your recommendation and if it's not, we'll have created bad data in our discussion. 
