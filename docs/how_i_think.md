@@ -58,4 +58,4 @@ a) "The error caused an incorrect reading of 234 instead of 124, here is a sprea
 
 b) "Here is a link to the updated documentation that should fix our process in future". 
 
-When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation means a lack of understanding. 
+When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation signals a lack of understanding. 
