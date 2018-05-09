@@ -44,9 +44,9 @@ Signalling me with a facial expression or just letting me know if I'm difficult 
 
 ## C) Tips on working with me
 
-### 1. Please send me recommendations, avoid equal options
+### 1. I value your recommendation over equal options 
 
-I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I'm not sure" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
+I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I don't know" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
 
 ### 2. When things go wrong, please teach me about specifically what happened and what we'll do to avoid the issue in future
 
