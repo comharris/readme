@@ -48,11 +48,10 @@ Signalling me with a facial expression or just letting me know if I'm difficult 
 
 I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I'm not sure" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
 
-### 2. When something goes wrong, please teach me specifically on what happened and how we're planning to avoid the issue in future 
+### 2. When things go wrong, please teach me about specifically what happened and what we'll do to avoid the issue in future
 
 There's nothing wrong with occassional failures--and we actually want _some_ failures happening all the time so we know we're exploring, growing and pushing into the unknown. When something breaks, we need to rebuild it stronger so it won't break the next time. This means doing root cause analysis and teaching others, and me, what went wrong and how we prevent the issue in future. When something fails the basic answer I am looking for is something like "This failed because we have Process A and on step 4 and 6 we had X go wrong. We've fixed the process to avoid X, and also problems Y and Z which are akin to X." 
 
 An outstanding answer would add detail one level lower, such as a) "The error caused an incorrect reading of 234 instead of 124, here is a spreadsheet with formulas showing the correct calculation with steps 4 and 6 highlighted in Process A" or b) "Here is a link to the updated documentation that should fix our process in future". 
 
-When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of teaching means a lack of understanding, which is probably untrue. 
-
+When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation means a lack of understanding, even when that is untrue.  
