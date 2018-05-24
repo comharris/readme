@@ -48,7 +48,9 @@ Signalling me with a facial expression or just letting me know if I'm difficult 
 
 I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I don't know" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
 
-### 2. When I have questions on performance and the response is something like "Everything is okay, we're doing fine" I hear that as "I need help and don't feel ready to share what's really going on." 
+### 2. Earning trust is better than asking for trust
+
+When I have questions on performance and the response is something like "Everything is okay, trust me" I hear that as "I need help and don't feel ready to share what's really going on." 
 
 In my mind, when someone has things under control, they're often eager to openly share and dive into detail, or at least talk about what worries them in a process that is otherwise going well. When things aren't under control, people tend to keep quiet. 
 
@@ -64,3 +66,6 @@ An outstanding answer would add detail one level lower, such as
 
 When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation signals a lack of understanding. 
 
+### 4. Avoid being vain 
+
+When working in teams, don't optimize for how you believe you will be perceived. Don't optimize for being liked. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example for their organization. 
