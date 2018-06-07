@@ -54,7 +54,7 @@ When I have questions on performance and the response is something like "Everyth
 
 In my mind, when someone has things under control, they're often eager to openly share and dive into detail, or at least talk about what worries them in a process that is otherwise going well. When things aren't under control, people tend to keep quiet. 
 
-### 3. When things go wrong, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
+### 3. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
 
 There's nothing wrong with occassional failures--and we actually want _some_ failures happening all the time so we know we're exploring, growing and pushing into the unknown. When something breaks, we need to rebuild it stronger so it won't break the next time. This means doing root cause analysis and teaching others, and me, what went wrong and how we prevent the issue in future. When something fails the basic answer I am looking for is something like "This failed because we have Process A and on step 4 and 6 we had X go wrong. We've fixed the process to avoid X, and also problems Y and Z which are akin to X." 
 
