@@ -66,6 +66,6 @@ An outstanding answer would add detail one level lower, such as
 
 When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation signals a lack of understanding. 
 
-### 4. Avoid being vain 
+### 4. Prioritize the work over being liked  
 
-When working in teams, don't optimize for how you believe you will be perceived. Don't optimize for being liked. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example for their organization. 
+When working in teams, don't optimize for how you believe you will be perceived. Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
