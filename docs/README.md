@@ -20,6 +20,10 @@ Here is my opinion about how [I think and behave](how_i_think). That said, I am 
 
 This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arises. 
 
+# How I manage my time 
+
+How I [schedule my time.](https://github.com/it33/readme/blob/master/docs/calendar.md)  
+
 # "CEO and Friends" Dinners
 
 Occassionally I'll co-host [CEO Dinners](ceo_dinners) for fellow CEOs and other friends, typically in San Francisco. I document the logistics here so that invitees can know what to expect--and can read up on me in advance if they're interested.  
