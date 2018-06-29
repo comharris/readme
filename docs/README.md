@@ -1,12 +1,6 @@
 Hi, I'm Ian. 
 
-This is my README page. Sometimes when you download a package of software it comes with a file called "README", which explains the contents of the package. 
-
-I've created a README file for myself, to share a bit about me, including my own perception of how I think and how I behave. 
-
-If you and I are planning to meet, either socially, professionally or both, I hope this page provides some context on me ahead of our discussion. 
-
-It's not an exhaustive list--for example, I leave out family here, as not everyone is comfortable being discussed on the internet--it's what I hope will be helpful to get to know me before or after we meet. 
+This is a README page to learn more about my workstyle prior to meeting socially or professionally. 
 
 # Basic info and biography
 
@@ -18,7 +12,7 @@ Here is my opinion about how [I think and behave](how_i_think).
 
 # Mindsets
 
-This section details the [mindsets](mindsets) I use as tools to frame the world and get things done in different contexts. In his book "Creativity, Inc." John Lasseter lists out mindsets he uses at Pixar--as frameworks to "try on" in different situations. Mindsets aren't intended to be consistent, they are tools to use when the right situation arises. 
+I use [mindsets](mindsets) as tools to frame the world in different contexts. Mindsets are not consistent or universal, they are different tools for different situations. 
 
 # How I manage my time 
 
