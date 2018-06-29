@@ -10,11 +10,11 @@ It's not an exhaustive list--for example, I leave out family here, as not everyo
 
 # Basic info and biography
 
-You can read about what I do professionally on [LinkedIn](https://www.linkedin.com/in/iantien/), and what I'm talking about on [Twitter](https://twitter.com/iantien). 
+You can find me on [LinkedIn](https://www.linkedin.com/in/iantien/) and [Twitter](https://twitter.com/iantien). 
 
 # How I think and behave 
 
-Here is my opinion about how [I think and behave](how_i_think). That said, I am learning constantly, so please expect my views to change over time with new information. I'll endeavour to keep things updated here as I grow, and at least you'll see how I used to think. 
+Here is my opinion about how [I think and behave](how_i_think). 
 
 # Mindsets
 
@@ -22,7 +22,7 @@ This section details the [mindsets](mindsets) I use as tools to frame the world 
 
 # How I manage my time 
 
-How I [schedule my time.](https://github.com/it33/readme/blob/master/docs/calendar.md)  
+Here is [how my calendar is organized](https://github.com/it33/readme/blob/master/docs/calendar.md). 
 
 # "CEO and Friends" Dinners
 
