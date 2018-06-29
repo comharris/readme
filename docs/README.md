@@ -16,7 +16,7 @@ I use [mindsets](mindsets) as tools to frame the world in different contexts. Mi
 
 # How I manage my time 
 
-Here is [how my calendar is organized](https://github.com/it33/readme/blob/master/docs/calendar.md). 
+Here is [how my calendar is organized](calendar). 
 
 # "CEO and Friends" Dinners
 
