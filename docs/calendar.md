@@ -22,13 +22,14 @@ Reschedule lower level category before rescheduling higher level category.
 
 ## Category 5 (rescheduling self-managed) 
 
-- Customers, partners, investors, analysts, advisers 
+- Customers, partners, investors, analysts, senior advisers 
 
 Avoid rescheduling unless I'm on a plane, in transit or a place that's loud and has poor internet. If we have to reschedule, please ping me so I can write the note myself. 
 
 ## Category 4 (rescheduling delegated) 
 
 - IJT Staff Meetings (aka "Leads") 
+- Advisers with frequent meetings and expectations of regular cancellations
 
 ## Category 3 (announcement of non-attendance delegated) 
 
