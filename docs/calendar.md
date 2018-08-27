@@ -5,6 +5,7 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 ## General guidelines: 
 
 - Meetings should be scheduled for 25 minutes on weekdays 
+- Meetings with partners or managing directors of VC firms should be scheduled for 60 minutes on weekdays
 - The following guidelines on schedule are for San Francisco timezone: 
   - 7am-9am SF time reserved for meetings with attendees outside North America    
   - 9am-1pm SF time is for conventional and standing meetings  
