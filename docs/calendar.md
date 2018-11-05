@@ -22,29 +22,34 @@ Sometimes I need to reschedule meetings and below outlines how I try to prioriti
 
 Reschedule lower level category before rescheduling higher level category.
 
-## Category 5 (rescheduling self-managed) 
+### Category 5 (rescheduling self-managed) 
 
-- Customers, partners, investors, analysts, advisers 
+- Customers, partners, investors, analysts, advisers, first meetings with referrals from key contacts (Calendar Color: Tomato) 
 
 Avoid rescheduling unless I'm on a plane, in transit or a place that's loud and has poor internet. If we have to reschedule, please ping me so I can write the note myself. 
 
-## Category 4 (rescheduling delegated) 
-
-- IJT Staff Meetings (aka "Leads") 
-
-## Category 3 (announcement of non-attendance delegated) 
-
-- Meetings where my attendance is optional 
-- Customer Obsession Meeting 
+- Customer Obsession Meeting (Calendar Color: Tomato) 
 
 Note: If I can't make the Customer Obsession Meeting, please announce in the channel and delegate running the meeting to Corey or his assign. 
 
-## Category 2 (rescheduling delegated) 
+### Category 4 (rescheduling delegated) 
 
-- Multi-person meetings with staff and vendors 
+- IJT Staff Meetings, aka "Leads" (Calendar Color: Banana) 
 
-## Category 1 (rescheduling delegated) 
+### Category 3 (rescheduling delegated) 
 
-- 1-1 meetings with staff and vendors 
+- Multi-person meetings with staff and vendors (Calendar Color: Tangerine) 
+
+### Category 2 (rescheduling delegated) 
+
+- 1-1 meetings with staff and vendors (Calendar Color: Blueberry) 
 
 Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
+
+### Category 1 (rescheduling self-work) 
+
+- Self-assigned time for work (Calendar Color: Flamingo) 
+
+### Travel Time (okay to take calls) 
+
+- Time allocated for travel when it's typically okay to take phone calls (Calendar Color: Sage) 
