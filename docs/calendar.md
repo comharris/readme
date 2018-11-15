@@ -56,8 +56,12 @@ Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
 
 # Email Management 
 
-## Cold investor queries 
+## Queries from potential new investors 
 
-When receiving cold investor email queries CEO may forward EA the mail with "LNI" short for "List of New Investors" and ask EA's help to loop in, thank them for their time and let the investor know we'll add them to the list of funds to contact in our next capital raise.  
+### Cold new investor queries 
 
+When receiving repeated cold investor email queries from the same person, often an analyst, CEO may forward EA the mail with "LNI" short for "List of New Investors" and ask EA's help to loop in, thank them for their time and let the investor know we'll add them to the list of funds to contact in our next capital raise.  
 
+### Warm / informed new investor queries 
+
+When an investor queries comes from a warm intro, or is someone who appears highly informed about our space (Open source, Team Collaboration, DevOps / InfoSec, etc.) CEO may loop in and suggest 25m Zoom or phone meeting.  
