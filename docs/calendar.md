@@ -1,6 +1,6 @@
 # CEO Administration Handbook 
 
-The primary purpose of this handbook is to document, analyze and optimize the systems in which CEO tasks are administrated by the support team in order to provide higher productivity at the company.
+The primary purpose of this handbook is to document, analyze and optimize the systems in which CEO tasks are administrated by the support team, specifically executive assistant ("EA") in order for the CEO to provide higher levels of service to the company. 
 
 ## Calendar Management 
 
