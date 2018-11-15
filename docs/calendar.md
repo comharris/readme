@@ -53,3 +53,11 @@ Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
 ### Travel Time (okay to take calls) 
 
 - Time allocated for travel when it's typically okay to take phone calls (Calendar Color: Sage) 
+
+# Email Management 
+
+## Cold investor queries 
+
+When receiving cold investor email queries CEO may forward EA the mail with "LNI" short for "List of New Investors" and ask EA's help to loop in, thank them for their time and let the investor know we'll add them to the list of funds to contact in our next capital raise.  
+
+
