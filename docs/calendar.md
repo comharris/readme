@@ -20,6 +20,14 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 
 Time when not in meetings is for messaging, email, and individual work. 
 
+### Scheduling
+
+Below are guidelines for scheduling and calendaring meetings.
+
+#### External Meetings with Referrals
+
+When the meeting is neither an informational meeting nor a candidate interview, the calendar invitation's subject should include the referral's name, CEO's name, and "Re: Mattermost" (e.g. Joan Thomas-Ian Tien Re: Mattermost). (Calendar Color: Tomato) 
+
 ### Rescheduling 
 
 Sometimes I need to reschedule meetings and below outlines how I try to prioritize rescheduling and whether the rescheduling is done by me ("self-managed") or someone on our team ("delegated").
