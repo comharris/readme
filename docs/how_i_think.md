@@ -62,7 +62,7 @@ Feedback like "I've done this before, don't worry" and "he's doing great, trust 
 
 PQ&A is a technique to quickly understand what we know as an organization by asking a series of specific, closed ended questions. E.g. What is the definition of X? What was X last month versus this month? How did we measure X? How is X calculated in case B? 
 
-PQ&A continues until someone either says "I don't know" (a good result, defining the boundaries of our understanding), applies MSU ("Making Stuff Up") or leaves PQ&A incomplete. While PQ&A is a highly efficient way to exchange information, it can be uncomfortable for people who aren't familiar with the method, so we should use it carefully until people are ready for it. 
+PQ&A continues until someone either says "I don't know" (a good result, defining the boundaries of our understanding) or leaves PQ&A incomplete. While PQ&A is a highly efficient way to exchange information, it can be uncomfortable for people who aren't familiar with the method, so we should use it carefully until people are ready for it. 
 
 ### 4. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
 
