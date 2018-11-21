@@ -9,5 +9,5 @@ This is a README page to learn more about my workstyle prior to meeting socially
 - **[CEO Dinners](ceo_dinners)** - I'll host these for fellow CEOs and other friends, typically in San Francisco. 
 
 How recently was this README updated? 
-- My favorite bands are Goo Goo Dolls and BNL. 
+- My favorite bands right now are Goo Goo Dolls and BNL. 
 - Right now I'm into "Hallelujah" from Pentatonix's Christmas album, "Your Song" by Elton John, and "Let Her Go" by Passenger. 
