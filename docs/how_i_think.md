@@ -8,7 +8,7 @@ Here's some basic things to know about working with me:
 
 ### 1. Most things are 1 or 0 to me.
 
-Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. I understand that not everyone thinks this way, or should think this way, this is just how I think. 
+Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. My views are in context, something that's a "1" for one use case or a certain level of performance, and a "0" in another and vice versa. 
 
 ### 2. I'm influenced by facts, data and new perspectives.
 
