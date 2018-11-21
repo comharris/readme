@@ -50,11 +50,21 @@ I think in "Yes" and "No". If you are seeking feedback from me on multiple optio
 
 ### 2. Earning trust is better than asking for trust
 
-When I have questions on performance and the response is something like "Everything is okay, trust me" I hear that as "I need help and don't feel ready to share what's really going on." 
+When I have questions on status and the response is something like "everything is okay, trust me" I get worried. My mental model is someone who has things under control is eager to openly share, dive into detail and talk about risks and key decisions in a process that is otherwise under control. When things aren't under control, discussions don't go into detail, and there's a lack of critique and constructive discussion. 
 
-In my mind, when someone has things under control, they're often eager to openly share and dive into detail, or at least talk about what worries them in a process that is otherwise going well. When things aren't under control, people tend to keep quiet. 
+If I'm wrong, and things are headed for a good outcome, and easy way to flip me is a note like: 
 
-### 3. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
+- "Our key risks as [X] and our mitigations are [Y], here's a link to how I've communicated to our team about the project (it's in the weeds). I've queued a discussion for [Y] meeting, let me know if you want to meet before." 
+
+Feedback like "I've done this before, don't worry" and "he's doing great, trust me" worries me. 
+
+### 3. When I'm in learning mode, please anticipate Precision Question and Answers (PQ&A) 
+
+PQ&A is a technique to quickly understand what we know as an organization by asking a series of specific, closed ended questions. E.g. What is the definition of X? What was X last month versus this month? How did we measure X? How is X calculated in case B? 
+
+PQ&A continues until someone either says "I don't know" (good result) or applies MSU ("Making Stuff Up"). While PQ&A is a highly efficient way to exchange information, it can be uncomfortable for people who aren't familiar with the method, so we should use it carefully until people are ready for it. 
+
+### 4. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
 
 There's nothing wrong with occassional failures--and we actually want _some_ failures happening all the time so we know we're exploring, growing and pushing into the unknown. When something breaks, we need to rebuild it stronger so it won't break the next time. This means doing root cause analysis and teaching others, and me, what went wrong and how we prevent the issue in future. When something fails the basic answer I am looking for is something like "This failed because we have Process A and on step 4 and 6 we had X go wrong. We've fixed the process to avoid X, and also problems Y and Z which are akin to X." 
 
@@ -66,6 +76,6 @@ An outstanding answer would add detail one level lower, such as
 
 When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation signals a lack of understanding. 
 
-### 4. Prioritize the work over being liked  
+### 5. Prioritize the work over being liked  
 
 When working in teams, don't optimize for how you believe you will be perceived. Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
