@@ -12,7 +12,7 @@ Either things are correct and excellent and as they should be (a "1"), or things
 
 ### 2. I'm influenced by facts, data and new perspectives.
 
-If you show me facts, data or a framing that brings me to a different conclusion, I can change my view on something quickly. I work best with people who are comfortable having a dialog. 
+If you show me facts, data or a framing that brings me to a different conclusion, I can change my view on something quickly. I work best with people who are comfortable having a dialog. I welcome [answer-first communications](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (what McKinsey calls "pyramid principle") as it's typically the most effective way to influence me. 
 
 ### 3. I'm an extrovert.
 
