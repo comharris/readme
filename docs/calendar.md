@@ -35,8 +35,10 @@ Sometimes I need to reschedule meetings and below outlines how I try to prioriti
 
 Reschedule lower level category before rescheduling higher level category.
 
-#### Category 5 (rescheduling self-managed) 
+## Category 5 (rescheduling delegated) 
 
+- IJT Staff Meetings (aka "Leads") 
+- Advisers with frequent meetings and expectations of regular cancellations
 - Customers, partners, investors, analysts, advisers, first meetings with referrals from key contacts (Calendar Color: Tomato) 
 
 Avoid rescheduling unless I'm on a plane, in transit or a place that's loud and has poor internet. If we have to reschedule, please ping me so I can write the note myself. 
