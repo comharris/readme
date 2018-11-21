@@ -10,7 +10,6 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 
 - Meetings should be scheduled for 25 minutes on weekdays 
 - 1:1 meetings with leads should be scheduled for 30 minutes on weekdays and are held weekly
-- Skip-level 1:1 meetings should be scheduled for 15 minutes on weekdays and are generally held every 6 months
 - The following guidelines on schedule are for San Francisco timezone: 
   - 7am-9am SF time reserved for meetings with attendees outside North America    
   - 9am-1pm SF time is for conventional and standing meetings  
