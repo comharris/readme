@@ -1,11 +1,17 @@
-# Calendar Management 
+# CEO Administration Handbook 
+
+The primary purpose of this handbook is to document, analyze and optimize the systems in which CEO tasks are administrated by the support team, specifically executive assistant ("EA") in order for the CEO to provide higher levels of service to the company. 
+
+## Calendar Management 
 
 If you're scheduling time with me, the below outlines the algorithm I try to use for managing meetings. I may delegate scheduling and rescheduling to a member of our team or a bot. 
 
-## General guidelines: 
+### General guidelines: 
 
 - Meetings should be scheduled for 25 minutes on weekdays 
 - Meetings with partners or managing directors of VC firms should be scheduled for 60 minutes on weekdays
+- 1:1 meetings with leads should be scheduled for 30 minutes on weekdays and are held weekly
+
 - The following guidelines on schedule are for San Francisco timezone: 
   - 7am-9am SF time reserved for meetings with attendees outside North America    
   - 9am-1pm SF time is for conventional and standing meetings  
@@ -15,35 +21,67 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 
 Time when not in meetings is for messaging, email, and individual work. 
 
-## Rescheduling 
+### Scheduling
+
+Below are guidelines for scheduling and calendaring meetings.
+
+#### External Meetings with Referrals
+
+When the meeting is neither an informational meeting nor a candidate interview, the calendar invitation's subject should include the referral's name, CEO's name, and "Re: Mattermost" (e.g. Joan Thomas-Ian Tien Re: Mattermost). (Calendar Color: Tomato) 
+
+### Rescheduling 
 
 Sometimes I need to reschedule meetings and below outlines how I try to prioritize rescheduling and whether the rescheduling is done by me ("self-managed") or someone on our team ("delegated").
 
 Reschedule lower level category before rescheduling higher level category.
 
-## Category 5 (rescheduling self-managed) 
+#### Category 5 (rescheduling self-managed) 
 
-- Customers, partners, investors, analysts, advisers 
+- Customers, partners, investors, analysts, advisers, first meetings with referrals from key contacts (Calendar Color: Tomato) 
 
 Avoid rescheduling unless I'm on a plane, in transit or a place that's loud and has poor internet. If we have to reschedule, please ping me so I can write the note myself. 
 
-## Category 4 (rescheduling delegated) 
-
-- IJT Staff Meetings (aka "Leads") 
-
-## Category 3 (announcement of non-attendance delegated) 
-
-- Meetings where my attendance is optional 
-- Customer Obsession Meeting 
+- Customer Obsession Meeting (Calendar Color: Tomato) 
 
 Note: If I can't make the Customer Obsession Meeting, please announce in the channel and delegate running the meeting to Corey or his assign. 
 
-## Category 2 (rescheduling delegated) 
+#### Category 4 (rescheduling delegated) 
 
-- Multi-person meetings with staff and vendors 
+- IJT Staff Meetings, aka "Leads" (Calendar Color: Banana) 
 
-## Category 1 (rescheduling delegated) 
+#### Category 3 (rescheduling delegated) 
 
-- 1-1 meetings with staff and vendors 
+- Multi-person meetings with staff and vendors (Calendar Color: Tangerine) 
+
+#### Category 2 (rescheduling delegated) 
+
+- 1-1 meetings with staff and vendors (Calendar Color: Blueberry) 
 
 Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
+
+#### Category 1 (rescheduling self-work) 
+
+- Self-assigned time for work (Calendar Color: Flamingo) 
+
+#### Travel Time (okay to take calls) 
+
+- Time allocated for travel when it's typically okay to take phone calls (Calendar Color: Sage) 
+
+# Email Management
+
+### Potential Investors
+
+Occasionally VC firms reach out to set up meetings. These are handled in one of the following ways:
+
+- I will respond and cc exec admin to help schedule
+- I will forward the message without comment. Exec admin 1) responds to the message (bcc me) letting the VC know we aren't looking to raise now and their firm is included on a [list of investors](https://docs.google.com/spreadsheets/d/1E9ks7mXmQBxrxvzGbL530bA5AzLHFiz5iq-hldaVc3Q/edit#gid=0) we hope to reach out to when we are raising, and 2) adds the firm to the VC list.
+
+### Queries from potential new investors 
+
+#### Cold new investor queries 
+
+When receiving repeated cold investor email queries from the same person, often an analyst, CEO may forward EA the mail with "LNI" short for "List of New Investors" and ask EA's help to loop in, thank them for their time and let the investor know we'll add them to the list of funds to contact in our next capital raise.  
+
+#### Warm / informed new investor queries 
+
+When an investor queries comes from a warm intro, or is someone who appears highly informed about our space (Open source, Team Collaboration, DevOps / InfoSec, etc.) CEO may loop in and suggest 25m Zoom or phone meeting.  
