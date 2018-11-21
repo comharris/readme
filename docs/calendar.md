@@ -66,7 +66,14 @@ Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
 
 - Time allocated for travel when it's typically okay to take phone calls (Calendar Color: Sage) 
 
-## Email Management 
+# Email Management
+
+### Potential Investors
+
+Occasionally VC firms reach out to set up meetings. These are handled in one of the following ways:
+
+- I will respond and cc exec admin to help schedule
+- I will forward the message without comment. Exec admin 1) responds to the message (bcc me) letting the VC know we aren't looking to raise now and their firm is included on a [list of investors](https://docs.google.com/spreadsheets/d/1E9ks7mXmQBxrxvzGbL530bA5AzLHFiz5iq-hldaVc3Q/edit#gid=0) we hope to reach out to when we are raising, and 2) adds the firm to the VC list.
 
 ### Queries from potential new investors 
 
