@@ -35,7 +35,7 @@ Sometimes I need to reschedule meetings and below outlines how I try to prioriti
 
 Reschedule lower level category before rescheduling higher level category.
 
-## Category 5 (rescheduling delegated) 
+#### Category 5 (rescheduling delegated) 
 
 - IJT Staff Meetings (aka "Leads") 
 - Advisers with frequent meetings and expectations of regular cancellations
@@ -69,21 +69,22 @@ Note: If 1-1 is weekly or bi-weekly, please cancel, otherwise, reschedule
 
 - Time allocated for travel when it's typically okay to take phone calls (Calendar Color: Sage) 
 
-# Email Management
-
-### Potential Investors
-
-Occasionally VC firms reach out to set up meetings. These are handled in one of the following ways:
-
-- I will respond and cc exec admin to help schedule
-- I will forward the message without comment. Exec admin 1) responds to the message (bcc me) letting the VC know we aren't looking to raise now and their firm is included on a [list of investors](https://docs.google.com/spreadsheets/d/1E9ks7mXmQBxrxvzGbL530bA5AzLHFiz5iq-hldaVc3Q/edit#gid=0) we hope to reach out to when we are raising, and 2) adds the firm to the VC list.
+## Email Management
 
 ### Queries from potential new investors 
 
 #### Cold new investor queries 
 
-When receiving repeated cold investor email queries from the same person, often an analyst, CEO may forward EA the mail with "LNI" short for "List of New Investors" and ask EA's help to loop in, thank them for their time and let the investor know we'll add them to the list of funds to contact in our next capital raise.  
+When receiving repeated cold investor email queries from the same person, often an analyst, CEO may forward EA the mail with "LNI" short for "List of New Investors", which indicates that EA should loop in, thank them for their time and let the investor know we'll add them to the [list of funds](https://docs.google.com/spreadsheets/d/1E9ks7mXmQBxrxvzGbL530bA5AzLHFiz5iq-hldaVc3Q/edit#gid=0) to contact in our next capital raise (bcc CEO).  
 
 #### Warm / informed new investor queries 
 
 When an investor queries comes from a warm intro, or is someone who appears highly informed about our space (Open source, Team Collaboration, DevOps / InfoSec, etc.) CEO may loop in and suggest 25m Zoom or phone meeting.  
+
+### Vendor Requests
+
+Vendors we pay will sometimes reach out directly to CEO for payment. CEO may forward EA the mail with "UPI" short for "Update Payment Information", which indicates that EA should loop in, share contact information for payment team (payments@mattermost.com), and share instructions for invoicing ([here](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.ispv9ka8whak))(bcc CEO).
+
+### Recommendations
+
+When sharing recommendations for CEO decisions (e.g. signatures), indicate your level of confidence or attachment to the outcome by adding x/5 ([0/5, 1/5...5/5](https://docs.mattermost.com/process/training.html#id8)) to the email's subject line. Add the x/5 as the first item in the subject line so that it is easily readable on a mobile phone. Please also add the x/5 to the email's body.
