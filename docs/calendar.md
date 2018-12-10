@@ -88,3 +88,20 @@ Vendors we pay will sometimes reach out directly to CEO for payment. CEO may for
 ### Recommendations
 
 When sharing recommendations for CEO decisions (e.g. signatures), indicate your level of confidence or attachment to the outcome by adding x/5 ([0/5, 1/5...5/5](https://docs.mattermost.com/process/training.html#id8)) to the email's subject line. Add the x/5 as the first item in the subject line so that it is easily readable on a mobile phone. Please also add the x/5 to the email's body.
+
+## Other Tasks
+
+### Ordering Meals
+
+For food ordered in (such as during an all day meeting), choose foods that are low carb, low sugar; fat is okay. 
+
+OK:
+
+ - Chicken or duck salad with oil and vinegar/citrus (no croutons) 
+ - Vegetarian meals as well as pita, burrito wraps, etc.
+ 
+ Avoid:
+ 
+ - Thick-sliced bread 
+ - Things that need to be heated
+ - Things that could be spilled
