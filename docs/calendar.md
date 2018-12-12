@@ -93,15 +93,15 @@ When sharing recommendations for CEO decisions (e.g. signatures), indicate your 
 
 ### Ordering Meals
 
-For food ordered in (such as during an all day meeting), choose foods that are low carb, low sugar; fat is okay. 
+For food ordered in (such as during an all day meeting), choose foods that are low carb, low sugar, non-spicy; fat is okay. 
 
-OK:
+- OK: Chicken or duck salad with oil and vinegar/citrus (no croutons), vegetarian meals with protien substitute.
+- Avoid: Spicy food, thick-sliced bread, food that needs heating, food that can be spilled 
 
- - Chicken or duck salad with oil and vinegar/citrus (no croutons) 
- - Vegetarian meals as well as pita, burrito wraps, etc.
- 
- Avoid:
- 
- - Thick-sliced bread 
- - Things that need to be heated
- - Things that could be spilled
+## Travel 
+
+### Car Travel 
+
+Title: "CAR: " & `[Origin] & " to " & [Destination]
+
+### Air Travel 
