@@ -93,15 +93,61 @@ When sharing recommendations for CEO decisions (e.g. signatures), indicate your 
 
 ### Ordering Meals
 
-For food ordered in (such as during an all day meeting), choose foods that are low carb, low sugar; fat is okay. 
+For food ordered in (such as during an all day meeting), choose foods that are low carb, low sugar, non-spicy; fat is okay. 
 
-OK:
+- OK: Chicken or duck salad with oil and vinegar/citrus (no croutons), vegetarian meals with protien substitute.
+- Avoid: Spicy food, thick-sliced bread, food that needs heating, food that can be spilled 
 
- - Chicken or duck salad with oil and vinegar/citrus (no croutons) 
- - Vegetarian meals as well as pita, burrito wraps, etc.
+## Travel 
+
+Please calendar car and air travel as follows: 
+
+### Car Travel - COLOR - Sage  
+
+- From home office to SFO book 50 minutes typically and 90 minutes in rush hour 
+- For other drives, please calculate driving distance and add 10 minutes for trips less than 30 minutes and 20 minutes for trips longer than 30 minutes (Note: Need to revise these numbers with data) 
+
+Title: `"CAR: " & [Origin] & " to " & [Destination]`
+- Examples: `CAR: SFO to Embassy Suites`, `CAR: Palo Alto to SFO`, 
+- For [Origin] and [Destination] bias to more glanceable, specific titles, e.g. Airport code (e.g. SFO, YYZ), Hotel Name (e.g. Embassy Suites), short address (44 Montgomery), city (Palo Alto). For travel to and from home office, just put "Palo Alto".  
+- Examples: `CAR: SFO to Embassy Suites`, `CAR: Palo Alto to SFO`, 
+Color: SAGE 
+
+### Air Travel - COLOR: Tomato 
  
- Avoid:
- 
- - Thick-sliced bread 
- - Things that need to be heated
- - Things that could be spilled
+Title: `"AIR: " & [Origin] & " to " & [Destination]`
+- Examples: `AIR: SFO to SEA`
+- Please include confirmation code, flight times, duration and whether Wifi and power would be available (copy and paste from confirmation typically works) 
+- Please calendar the specific take-off and landing times into the invite  
+
+```
+Confirmation number:
+MZZK7Z
+San Francisco, CA, US (SFO) to Seattle, WA, US (SEA)
+
+Trip summary
+Wednesday, December 12, 2018
+Departing 1:10 pm San Francisco, CA, US (SFO) Arriving 3:29 pm Seattle, WA, US (SEA)Number of stopsNonstop
+San Francisco, CA, US (SFO)Seattle, WA, US (SEA)Duration2h 19m totalFlight segments
+FLIGHT UA 5887 Aircraft type Embraer ERJ-175 Wifi onboardOperated By SKYWEST DBA UNITED EXPRESS
+Details
+San Francisco, CA, US (SFO) to Seattle, WA, US (SEA)
+1:10 pm - 3:29 pm (2h 19m)
+UA 5887 | Embraer ERJ-175
+Operated By SKYWEST DBA UNITED EXPRESS
+Wi-Fi Power outlets
+```
+
+### Airport Security and Deplane - COLOR: Tomato
+
+Please book time passing through airports. Communication is typically difficult, so no double booked meetings here. 
+
+Airport security 
+- Title: Airport Security NO CUSTOMS // Book 60 minutes   
+- Title: Airport Security WITH CUSTOMS // Book 120 minutes - Flying from YYZ to U.S. is typically the only place this is needed
+
+Deplane 
+- Title: Deplane NO CUSTOMS // Book 30 minutes  
+- Title: Deplane WITH CUSTOMS // Book 80 minutes 
+
+
