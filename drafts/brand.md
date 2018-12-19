@@ -1,4 +1,4 @@
-# Mattermost Brand Identity 
+# WIP: Mattermost Brand Identity 
 
 Below is a work-in-progress draft of Mattermost's brand identity guidelines for use in the development of content that communicates our brand. 
 
