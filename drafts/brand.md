@@ -41,3 +41,9 @@ Mattermost’s mission is to make the world safer and more productive by develop
 - Connect back to making the world safer and more productive 
 - Geopolitically neutral 
 - Considerate and empathetic
+
+
+## Do's and Don'ts
+
+- Avoid statements that temp nit-pickers to challenge us, e.g. avoid absolute notions of "best", "pinnacle", etc. without softening with "can be...", "for many are...", etc.
+- Avoid self-praise (e.g. "The Power of Mattermost", "Why Mattermost is Awesome!!"), instead quote from others, or explain why others thing these great things about us. 
