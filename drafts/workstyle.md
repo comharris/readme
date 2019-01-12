@@ -1,4 +1,4 @@
-# WIP - Mattermost Workstyle 
+# WIP - Mattermost the Company  
 
 Mattermost is an open source, remote-first, communities-centered company based in Palo Alto, California and headquartered on the internet. 
 
