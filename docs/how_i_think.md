@@ -20,7 +20,7 @@ My energy increases when I'm communicating with other people (including on video
 
 ### 4. I'm an end-game systems thinker. 
 
-In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. I think about the world in systems and [make decisions based on my estimations of the end game](reason).
+In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. I think about the world in systems and [make decisions based on my estimations of the end game](reason.md).
 
 ### 5. I aspire to be logical, while acknowledging that human thinking is largely emotional.
 
