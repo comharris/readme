@@ -14,7 +14,7 @@ Here's some basic things to know about working with me:
 
 ### 1. Most things are 1 or 0 to me.
 
-Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. My views are in context, something that's a "1" for one use case or a certain level of performance, and a "0" in another and vice versa. 
+Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. My views are naturally quantized rather than interpolated. For example, I'll perceive a skill set at "1" at a junior level and "0" at a senior level, rather than as someone who's "0.5". I see professional skills, my own included, as a sets of 1s and 0s at different levels.  
 
 ### 2. I'm influenced by facts, data and new perspectives.
 
