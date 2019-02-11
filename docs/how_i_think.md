@@ -36,15 +36,15 @@ In university I wrote computer models to study different models of cognition (ru
 
 Here are some things to know about me in special situations: 
 
-### 1. Sometimes I ask a series of precise, close-ended questions.
+### 1. Sometimes I'll use "Precision Q&A" 
 
-When discussing something important, I ask very specific questions like: "How long has the regression been known to exist in the product?", "Who's responsible for replying to the contributor?", "When was the last time that person replied to any contributor?" This line of questions may seem uncomfortable to some people who prefer a more casual style of conversation. Please understand I have no intention of treating people differently, I am just trying to understand facts quickly. 
+When discussing something important, I sometimes use a tool called "precision question and answer" to understand facts through a series of specific, often close-ended questions: What is the definition of X? What was X last month versus this month? How did we measure X? How is X calculated in case B? This can feel uncomfortable for some people. Please know that I treat everyone the same with these questions. They are just a technique to make the best use of limited time.  
 
 ### 2. When exploring ideas, I consider multiple possibilities at the same time.
 
-As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to see if the consensus falls apart, or if other paths are properly eliminated and we end up at the same conclusion. I may ask questions down paths others feel should be eliminated earlier because I find sometimes those questions uncover new paths not considered. That said, once we have agreement, I am 100% behind the direction and will repeated it endlessly.
+Please be careful reading too much into my questions. As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to explore "what if". I may backtrack on options people thought we elimiated. This happens because my mind is working in parallel, thinking is often not cut-off, but only de-prioritized in my mind. When I near a conclusion, I revisit unlikely options so when we make a final decision I've thought through things thoroughly. 
 
-### 3. If you're not a native English speaker, I'm happy to speak slower and more simply. Please signal to me to do this.
+### 3. If you're not a native English speaker, I'm happy to speak slower and more simply. Please signal to me.
 
 Signalling me with a facial expression or just letting me know if I'm difficult to understand is highly appreciated. I know how you feel. In addition to English, I speak conversational Mandarin in an accent that can make me sound more fluent than I am. I struggle when a native speaker uses advanced vocabulary.
 
@@ -52,25 +52,19 @@ Signalling me with a facial expression or just letting me know if I'm difficult 
 
 ### 1. I value your recommendation over equal options 
 
-I think in "Yes" and "No". If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I don't know" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
+If you are seeking feedback from me on multiple options, please select one to be the "recommendation" and other options as "also considered", even if you aren't sure which is the best option. This lets me share a "Yes", "No", or "I don't know" with you quickly and open the conversation to other options as needed. Please AVOID sending me "equal options" and hiding your opinion, as my Yes/No brain will consider the first option you present as your recommendation and if it's not, we'll have bad data mixed into our discussion. 
 
 ### 2. Earning trust is better than asking for trust
 
-When I have questions on status and the response is something like "everything is okay, trust me" I get worried. My mental model is someone who has things under control is eager to openly share, dive into detail and talk about risks and key decisions in a process that is otherwise under control. When things aren't under control, discussions don't go into detail, and there's a lack of critique and constructive discussion. 
+When I have detailed questions or requests, people who essentially say "trust me" set off alarm bells for me because of bad experiences I've had in the past. My mental model is someone who has things under control is eager to openly share, dive into detail and talk about risks and key decisions in a process that is otherwise under control. When things aren't under control, discussions avoid detail, and there's a lack of critique and constructive discussion. 
 
-If I'm wrong, and things are headed for a good outcome, and easy way to flip me is a note like: 
+If I'm wrong, and things are headed for a good outcome, the easy way to flip me is a note like: 
 
-- "Our key risks as [X] and our mitigations are [Y], here's a link to how I've communicated to our team about the project (it's in the weeds). I've queued a discussion for [Y] meeting, let me know if you want to meet before." 
+- "Our key risks as [X] and our mitigations are [Y], here's a link to documentation on our process. I've queued a discussion for [Y] meeting, let me know if you want to meet before." 
 
-Feedback like "I've done this before, don't worry" and "he's doing great, trust me" worries me. 
+Feedback like "I've done this before, don't worry" and "he's doing great, trust me" worries me.
 
-### 3. When I'm in learning mode, please anticipate Precision Question and Answers (PQ&A) 
-
-PQ&A is a technique to quickly understand what we know as an organization by asking a series of specific, closed ended questions. E.g. What is the definition of X? What was X last month versus this month? How did we measure X? How is X calculated in case B? 
-
-PQ&A continues until someone either says "I don't know" (a good result, defining the boundaries of our understanding) or leaves PQ&A incomplete. While PQ&A is a highly effective way to exchange information, it can be uncomfortable for people who aren't familiar with the method, so we should use it carefully until people are ready for it. 
-
-### 4. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
+### 3. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
 
 There's nothing wrong with occassional failures--and we actually want _some_ failures happening all the time so we know we're exploring, growing and pushing into the unknown. When something breaks, we need to rebuild it stronger so it won't break the next time. This means doing root cause analysis and teaching others, and me, what went wrong and how we prevent the issue in future. When something fails the basic answer I am looking for is something like "This failed because we have Process A and on step 4 and 6 we had X go wrong. We've fixed the process to avoid X, and also problems Y and Z which are akin to X." 
 
@@ -82,9 +76,9 @@ An outstanding answer would add detail one level lower, such as
 
 When something has failed, please AVOID answers like "Don't worry about it, it's fixed now" as my Yes/No brain will assume the lack of detail, teaching and remediation signals a lack of understanding. 
 
-### 5. Prioritize the work over being liked  
+### 4. Prioritize the work over being liked  
 
-When working in teams, don't optimize for how you believe you will be perceived. Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
+Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
 
 ## D) Systems I use 
 
