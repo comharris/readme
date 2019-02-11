@@ -143,11 +143,11 @@ Wi-Fi Power outlets
 Please book time passing through airports. Communication is typically difficult, so no double booked meetings here. 
 
 Airport security 
-- Title: Airport Security NO CUSTOMS // Book 60 minutes   
-- Title: Airport Security WITH CUSTOMS // Book 120 minutes - Flying from YYZ to U.S. is typically the only place this is needed
+- Title: Airport Security DOMESTIC // Book 60 minutes   
+- Title: Airport Security INTERNATIONAL // Book 120 minutes
 
 Deplane 
 - Title: Deplane NO CUSTOMS // Book 30 minutes  
-- Title: Deplane WITH CUSTOMS // Book 80 minutes 
+- Title: Deplane WITH CUSTOMS // Book 80 minutes - Note: Customs required for any deplane from U.S. to international destination
 
 
