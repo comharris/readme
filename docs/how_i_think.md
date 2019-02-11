@@ -79,3 +79,11 @@ When something has failed, please AVOID answers like "Don't worry about it, it's
 ### 5. Prioritize the work over being liked  
 
 When working in teams, don't optimize for how you believe you will be perceived. Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
+
+## D) Systems I use 
+
+### 1. Structure organizations for unbiased oversight when practical 
+
+Some functions provide natural oversight to others. For example: Quality assurance provides oversight to engineering while legal and finance provide oversight to sales. When practical, avoid having the function providing oversight report into the function needing the oversight. Regardless of our good intentions, the reporting structure creates bias. As the saying goes: "who's bread I eat, her song I sing". 
+
+ 
