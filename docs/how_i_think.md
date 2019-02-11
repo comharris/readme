@@ -1,6 +1,12 @@
 # How I think and behave
 
-Here's a primer on what goes through my head most of the time and how it leads to my actions.
+It takes time to get to know people. It takes time to know ourselves. 
+
+I wrote out my personal view of how I think and behave below: 
+
+a) so that people who don't know me can (optionally) learn about me before we meet, 
+b) so that I can increase self-awareness, via feedback from people who know me sharing feedback on my self-assessment, and  
+c) so that I can mindfully adapt my thinking and behavior
  
 ## A) How I think 
 
@@ -18,7 +24,7 @@ If you show me facts, data or a framing that brings me to a different conclusion
 
 My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. Depending on the mix of introverts and extroverts in a conversation, I try to adjust my style to make the most of our time together.
 
-### 4. I'm an end-game systems thinker. 
+### 4. I make decisions as an "end-game systems thinker". 
 
 In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. I think about the world in systems and [make decisions based on my estimations of the end game](reason.md).
 
