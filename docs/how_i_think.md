@@ -84,6 +84,6 @@ When working in teams, don't optimize for how you believe you will be perceived.
 
 ### 1. Structure organizations for unbiased oversight when practical 
 
-Some functions provide natural oversight to others. For example: Quality assurance provides oversight to engineering while legal and finance provide oversight to sales. When practical, avoid having the function providing oversight report into the function receiving the oversight. Regardless of our good intentions, the reporting structure creates bias. As the saying goes: "who's bread I eat, her song I sing". 
+Some functions provide natural oversight to others. For example: Quality assurance provides oversight to engineering while legal and finance provide oversight to sales. When practical, avoid having the function providing oversight report into the function receiving it. Regardless of our good intentions, the reporting structure creates bias. As the saying goes: "who's bread I eat, her song I sing". 
 
  
