@@ -1,4 +1,4 @@
-# WIP: Reasoning 
+# Reasoning 
 
 People reason in different ways. Below are my notes on how I try to adapt my reasoning to best understand how others are thinking and how I naturally think. This isn't based on any objective research, it's just a personal model I'm using and tweaking. 
 
