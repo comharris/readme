@@ -100,9 +100,22 @@ For food ordered in (such as during an all day meeting), choose foods that are l
 
 ## Travel 
 
+### Booking Travel
+
+#### Air Travel
+
+Guidelines for booking air travel:
+
+- Morning Departures: Flights departing at 6:30am or later are generally OK 
+- Evening Arrivals: Aim to have me home to Palo Alto by 6:30pm if possible, or by 8pm at the latest. If home arrival is later than 8pm, push back meetings the next morning to 1.5 hours after waking up following 7.5 hours of sleep.
+- Rush Hour: Minimize rush hour travel to and from airport when possible. (Note: Typical rush hour times are 7:00-9:00am and 4:00-6:00pm, Monday through Friday)
+
+
+### Calendaring Travel
+
 Please calendar car and air travel as follows: 
 
-### Car Travel - COLOR - Sage  
+#### Car Travel - COLOR - Sage  
 
 - From home office to SFO book 50 minutes typically and 90 minutes in rush hour 
 - For other drives, please calculate driving distance and add 10 minutes for trips less than 30 minutes and 20 minutes for trips longer than 30 minutes (Note: Need to revise these numbers with data) 
@@ -113,7 +126,7 @@ Title: `"CAR: " & [Origin] & " to " & [Destination]`
 - Examples: `CAR: SFO to Embassy Suites`, `CAR: Palo Alto to SFO`, 
 Color: SAGE 
 
-### Air Travel - COLOR: Tomato 
+#### Air Travel - COLOR: Tomato 
  
 Title: `"AIR: " & [Origin] & " to " & [Destination]`
 - Examples: `AIR: SFO to SEA`
@@ -138,7 +151,7 @@ Operated By SKYWEST DBA UNITED EXPRESS
 Wi-Fi Power outlets
 ```
 
-### Airport Security and Deplane - COLOR: Tomato
+#### Airport Security and Deplane - COLOR: Tomato
 
 Please book time passing through airports. Communication is typically difficult, so no double booked meetings here. 
 
