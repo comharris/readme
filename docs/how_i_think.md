@@ -16,21 +16,21 @@ Here's some basic things to know about working with me:
 
 Either things are correct and excellent and as they should be (a "1"), or things are wrong and need to be fixed or de-prioritized (a "0"). It's difficult for me to conceive of answers "in between". I tend to agree, disagree, or need more information. My views are naturally quantized rather than interpolated. For example, I'll perceive a skill set at "1" at a junior level and "0" at a senior level, rather than as someone who's "0.5". I see professional skills, my own included, as a sets of 1s and 0s at different levels.  
 
-### 2. I'm influenced by facts, data and new perspectives.
+### 2. Facts and logic influence me 
 
-If you show me facts, data or a framing that brings me to a different conclusion, I can change my view on something quickly. I work best with people who are comfortable having a dialog. I welcome [answer-first communications](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (what McKinsey calls "pyramid principle") as it's typically the most effective way to influence me. 
+Facts or logic can change my world view quickly. I welcome [answer-first communications](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (what McKinsey calls "pyramid principle") as a way to change my thinking. I am constantly poking at assumptions until they hit the bedrock of fact. I am careful about reasoning through story because it can be emotional and subjective. 
 
 ### 3. I'm an extrovert.
 
 My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. Depending on the mix of introverts and extroverts in a conversation, I try to adjust my style to make the most of our time together.
 
-### 4. I make decisions as an "end-game systems thinker". 
+### 4. My mind thinks in systems and end games.
 
 In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. I think about the world in systems and [make decisions based on my estimations of the end game](reason.md).
 
 ### 5. I aspire to be logical, while acknowledging that human thinking is largely emotional.
 
-In university I studied cognition and built software simulating different models of thinking (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to not let it over influence my final decision. 
+In university I wrote computer models to study different models of cognition (rules-based, pattern-based, dynamic/chaotic systems, etc.). I believe emotions help us arrive quickly at potential solutions, and once delivered logic must vet our analysis and conclusion. If I have a strong first impression about something (good or bad), I try to learn more and not let it over influence my final decision. 
 
 ## B) How I behave
 
