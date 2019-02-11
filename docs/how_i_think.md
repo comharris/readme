@@ -4,9 +4,9 @@ It takes time to get to know people. It takes time to know ourselves.
 
 I wrote out my personal view of how I think and behave below: 
 
-a) so that people who don't know me can (optionally) learn about me before we meet, 
-b) so that I can increase self-awareness, via feedback from people who know me sharing feedback on my self-assessment, and  
-c) so that I can mindfully adapt my thinking and behavior
+- a) so that people who don't know me can (optionally) learn about me before we meet, 
+- b) so that I can increase self-awareness, via feedback from people who know me sharing feedback on my self-assessment, and  
+- c) so that I can mindfully adapt my thinking and behavior
  
 ## A) How I think 
 
