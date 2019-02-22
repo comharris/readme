@@ -80,6 +80,10 @@ When something has failed, please AVOID answers like "Don't worry about it, it's
 
 Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
 
+### 5. BCC me off email threads when you're taking over 
+
+If you're taking over on an item, please BCC on the thread as you take it so I know it's handled, or DM me. I need something in writing. If you only share verbally, I need to send you an email or DM to confirm, so it's triple the work. 
+
 ## D) Systems I use 
 
 ### 1. Structure organizations for unbiased oversight when practical 
