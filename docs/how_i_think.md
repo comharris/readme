@@ -82,7 +82,7 @@ Don't prioritize being liked over making the right decision. Hold the work up ab
 
 ### 5. BCC me off email threads when you're taking over 
 
-If you're taking over on an item, please BCC on the thread as you take it so I know it's handled, or DM me. I need something in writing. If you only share verbally, I need to send you an email or DM to confirm, so it's triple the work. 
+If you're taking over on an item, please BCC on the thread as you take it so I know it's handled, or DM me. I need something in writing so I have a "stub" to use for tracking and asking questions. If you only share verbally, I need to send you an email or DM to confirm, which is extra work for everyone. 
 
 ## D) Systems I use 
 
