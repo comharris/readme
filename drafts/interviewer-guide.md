@@ -1,34 +1,107 @@
-# Interviewing Mattermost 
+# Hiring at Mattermost 
 
-All Mattermosters are ambassadors and guardians of our culture, and Interviewers are our "best of the best". The following guide shares  the principles, process and criteria under which Mattermost conducts its interviews for candidates and our company to mutually assess the fit with each other. 
 
-## Interviewers
+## Vision 
+
+## Values 
+
+1. High standards - Bar is high. Candidate team is well-trained, well-organized and makes strong hires   
+2. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
+3. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
+
+## Methods 
+
+1. Clear Recruiting Process - Candidates should find clear, predictable recruiting process 
+2. Well-Prepared Candidate Team - Mattermost candidate teams are professional, coordinated and well-organized 
+2. Trained Interviewers - Mattermost interviewers are trained and coached to operate effectively  
+3. Continuous Measurement and Improvement - Clear measures, assessment and improvement processes are in place 
+
+## Obstacles 
+
+1. Lack of full-time People leader 
+2. Different hiring processes in R&D and GTM organizations 
+
+## Measures 
+
+1. On average new candidates raise the bar per level band
+2. Average days between first screened candidate to role filled is quicker than 90 days 
+3. Candidate NPS of 70 or better 
+
+---
+
+# Well-Prepared Candidate Team 
+
+All Mattermosters are ambassadors and guardians of our culture, and candidate teams need to be our "best of the best". The candidate team is accountable for candidate experience and making a hiring recommendation to the head of each department to approve hires. This team includes:  
+
+1. Hiring Manager 
+2. Recruiter and/or recruiting coordinator 
+3. Interviewers Level 1 or higher 
+4. An "As Appropriate" interviewer 
+
+We detail the accountability and support for each role below: 
+
+## Hiring Manager 
+
+The hiring manager is accountable for: 
+
+1. Working with recruiter and/or People leader to define the responsibilities and requirements for the role 
+2. Developing an assessment plan that assigns interview areas to interviewers Level 1 and higher 
+3. Chairing the candidate review meeting and making a hire recommendation for the best candidate 
+
+## Recruiting Coordinator 
+
+The recruiting coordinator or recruiting specialist is accountable for: 
+
+1. Online screening - Evaluates candidates from referrals (people recommended by staff members and our networks), applicants (people who apply online) and sourced candidates (candidates not looking that recruiting specialists or agencies find). 
+1. First meeting - Introduces candidate to Mattermost and opportunities and gets them excited. Provides materials to learn more about the company. Coaches the candidate on how to prepare.
+1. Ensure interviewer feedback is effective - Coordinating interviewers to ensure their interviewing per plan and their feedback is well written.   
+1. Scheduling and post-meeting follow-up - Coordinates meetings with interviewers. Speaks with candidate by phone or Zoom after each day an interview meeting occurs. 
+1. Coach interviewers - Share feedback to interviewers based on post-interview conversations and their written feedback to help interviewers improve.  
+1. Coordinating candidate team round table - Bring hiring manager, As Appropriate interviewer, and key interviewers to discuss the candidate and make an offer decision.  
+
+## Interviewers Level 1 or higher 
+
+Interviewers on candidate loops should be Level 1 or higher based on the [Mattermost Interviewer Guide](XXXX). They are accountable for:  
+1. Interviewing candidates based on the assessment plan provided by the hiring manager 
+2. Increasing a candidate's interest and excitement about joining the company 
+3. Assessing candidates in assigned areas and finding Red Flags and Yellow Flags 
+4. Writing concise and effective feedback to hiring managers and recruiters 
+
+## As Appropriate Interviewer 
+
+An _As Appropriate_ interviewer, or "AA", assesses candidates for cultural and level fit across disciplines. An AA loop is required before any candidate receives a full-time offer. Currently the only AA interviewers are Corey Hulen (CTO and Co-founder) and Ian Tien (CEO and Co-founder). 
+
+Exception: Non-staff interviewers--typically advisers or board members--may or may not have detailed written feedback. Their feedback would be inputted by the person owning the relationship with the interviewer. 
+
+----
+
+# Interviewing Guide 
 
 During the recruiting process, candidates and Mattermost are assessing each other at the same time. It's vital that Mattermost interviewers both represent our culture and people accurately and precisely assess the candidate's fit for our culture. 
 
-We invest in training and developing the skills of our interviewers through a series of skill levels. 
+We invest in training and developing the skills of our interviewers through a series of skill levels, and skill development processes. 
 
-### Interviewer Skill Levels 
+## Interviewer Skill Levels 
 
-#### Level 0 Interviewer 
+### Level 0 Interviewer 
 
 - **Scope:** New to interviewing at Mattermost - Feedback should not significantly impact candidate assessments.
 - **Assessment:** Documents strengths and opportunities with specific examples, but may miss issues trained interviewers detect.   
 - **Recruiting:** Represents Mattermost as a potential colleague exhibiting cultural norms and proficiencies.
 
-#### Level 1 Interviewer 
+### Level 1 Interviewer 
 
-Accuracy of candidate assessments should be above 85 percent (i.e. less than 15% chance they've missed something in area interviewed). 
+Accuracy of candidate assessments should be above 85 percent (i.e. less than 15% chance they've missed something in area interviewed another Level 1 would spot). 
 
 - **Scope:** 50m interviews for junior to intermediate candidates. Asked to assess specific capabilities or leadership principles.
 - **Assessment:** Catches obvious misalignment. Effectively documents strengths and opportunities for hiring committee.
 - **Recruiting:** Outstanding colleage. Makes candidates want to work with the interviewer in future. 
 
-Examples: Colleagues who have completed interviewer training and have exceeded 20 to 30 interviews with time for reflection and feedback. 
+Examples: Colleagues who have completed interviewer training and have exceeded 20 to 30 interviews with feedback from recruiters and hiring managers on the effectiveness of their feedback and impact on candidate experience. 
 
-#### Level 2 Interviewer
+### Level 2 Interviewer
 
-Accuracy of candidate assessments should be above 90 percent (i.e. less than 10% chance they've missed something in area interviewed). 
+Accuracy of candidate assessments should be above 90 percent (i.e. less than 10% chance they've missed something in area that a Level 1 would spot). 
 
 - **Scope:** 50m interviews for junior to senior candidates with or without guidance.
 - **Assessment:** Catches hard-to-spot show-stopper issues. Written feedback is concise, precise and thorough.  
@@ -36,15 +109,15 @@ Accuracy of candidate assessments should be above 90 percent (i.e. less than 10%
 
 Examples: Experienced directors, senior managers, leads and ICs 
 
-#### Level 3 Interviewer 
+### Level 3 Interviewer 
 
-Accuracy of candidate assessments should be in high-90s (i.e. less than single-digit percent chance they've missed something in area interviewed). 
+Accuracy of candidate assessments should be in high-90s (i.e. less than single-digit percent chance they've missed something in area interviewed that a Level 1 would spot). 
 
 - **Scope:** 25m to 50m interviews for junior to exec-level candidates with or without guidance.
 - **Assessment:** Accurately and concisely assess candidate across broad and deep competencies.  
 - **Recruiting:** Talent gravity well. Candidates sees Mattermost opportunity in a compelling new light. 
 
-Examples: Executives, founders, C-suite advisers
+Examples: Mattermost executives and executive advisers. 
 
 ### Interviewer training and development 
 
@@ -52,13 +125,9 @@ Mattermost as a company is in the process of formalizing its interviewer trainin
 
 The process involves staff members reading this guide thoroughly and working with a Level 2 interviewer or higher to estimate the staff member's a) current proficiency in assessment and recruiting, b) opportunities to grow, c) path to development, which may include mock-interviews, online or in-class training, or participation in junior-level interviews. 
 
-## Principles 
+---
 
-1. High standards - Bar is high. Candidate team is well-trained, well-organized and makes strong hires   
-2. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
-3. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
-
-## Recruiting Process
+# Recruiting Process
 
 The following steps outline the recruiting process. At any point, the process may be discontinued if it's found the candidate is unlikely to be successful near and long term at Mattermost. 
 
