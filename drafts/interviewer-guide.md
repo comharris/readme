@@ -6,26 +6,27 @@
 ## Values 
 
 1. High standards - Bar is high. Candidate team is well-trained, well-organized and makes strong hires   
-2. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
-3. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
+1. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
+1. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
 
 ## Methods 
 
 1. Clear Recruiting Process - Candidates should find clear, predictable recruiting process 
-2. Well-Prepared Candidate Team - Mattermost candidate teams are professional, coordinated and well-organized 
-2. Trained Interviewers - Mattermost interviewers are trained and coached to operate effectively  
-3. Continuous Measurement and Improvement - Clear measures, assessment and improvement processes are in place 
+1. Well-Prepared Candidate Team - Mattermost candidate teams are professional, coordinated and well-organized 
+1. Consistent Interview Areas - Criteria for candidate evaluation is effective and consistent across teams
+1. Trained Interviewers - Mattermost interviewers are trained and coached to operate effectively  
+1. Continuous Measurement and Improvement - Clear measures, assessment and improvement processes are in place 
 
 ## Obstacles 
 
 1. Lack of full-time People leader 
-2. Different hiring processes in R&D and GTM organizations 
+1. Different hiring processes in R&D and GTM organizations 
 
 ## Measures 
 
 1. On average new candidates raise the bar per level band
-2. Average days between first screened candidate to role filled is quicker than 90 days 
-3. Candidate NPS of 70 or better 
+1. Average days between first screened candidate to role filled is quicker than 90 days 
+1. Candidate NPS of 70 or better 
 
 ---
 
