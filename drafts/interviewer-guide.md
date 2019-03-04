@@ -146,7 +146,9 @@ The following steps outline the recruiting process. At any point, the process ma
 
 1 The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
 
-### Interview Areas and Area Assignments 
+--- 
+
+# Interview Areas and Area Assignments 
 
 In general, we have "areas" to be assessed during the interview process that are grouped into four categories: 
 
@@ -166,7 +168,7 @@ For example, for a product manager role, the hiring manager may work with the re
 
 The interview plan should be posted in Lever by the recruiter at the start of the interview with `@mentions` to each interviewer so they know which area to cover. 
 
-#### Capabilities 
+## Capabilities 
 
 Each role should have roughly 4 to 8 areas of responsibility, which we refer to as "capabilities", to be assessed based on the publicly-posted job description. 
 
@@ -189,7 +191,7 @@ For each area, interviewers should approach candidates with a friendly curiosity
 - If you were leading a team with multiple people with your same skillset and role, what would you do yourself and what would you delegate? 
 - Can you share a story about making a mistake while doing X? What did you learn? How would you change your behavior in future? 
 
-##### Scoring Capabilities 
+### Scoring Capabilities 
 
 Scores for each capability area should be on a scale of 1 to 5: 
 
@@ -201,17 +203,17 @@ Scores for each capability area should be on a scale of 1 to 5:
 
 Level 1 interviewers and higher should enter their score per area into Level comments
 
-#### Culture 
+### Culture 
 
 Cultural fit for Mattermost is based on alignment to leadership principles. Unlike capabilities, which can sometimes be rapidly improved over time, cultural fit can be difficult to change, and also difficult to assess. 
 
 Paying close attention to cultural fit during the interview process is vital. 
 
-##### Leadership Principles  
+#### Leadership Principles  
 
 The following summarizes leadership principles on which candidates should be assessed. 
 
-###### Customer Obsession 
+##### Customer Obsession 
 
 - Naturally curious about customer's challenges and their world  
 
@@ -223,29 +225,29 @@ Customer-facing Roles:
 Product and Engineering Roles: 
 - Frames their work in the context of end goals and benefits to customers 
 
-###### Be an Owner 
+##### Be an Owner 
 
 - Owns outcomes - Doesn’t drop the ball, jumps-in when something important is needed and never says “it’s not my job.”
 - Accountable - Open about their mistakes, doesn't "sugar coat", doesn't blame others 
 - Growth mindset - Uses mistakes to change and permanently improve, focuses on future improvements over blaming others  
 
-###### High Impact 
+##### High Impact 
 
 TBW
 
-###### Self-Awareness 
+##### Self-Awareness 
 
 TBW
 
-###### Insist on High Standards 
+##### Insist on High Standards 
 
 TBW
 
-###### Earn Trust 
+##### Earn Trust 
 
 TBW
 
-##### Scoring Leadership Principles  
+#### Scoring Leadership Principles  
 
 The scoring of leadership principles should be as follows: 
 
@@ -255,21 +257,25 @@ The scoring of leadership principles should be as follows:
 - 4 - Strong - Fit is at upper end of target level, but doesn't pass into next level 
 - 5 - Overqualified - Fit exceeds level for the role to the point where candidate is mis-leveled (e.g. an intermediate-level candidate with senior-level proficiency in their area) 
 
-#### Workstyle 
+### Workstyle 
 
 Workstyle should be assessed formally by either the recruiter or the hiring manager. During the interview process, as interviewers learn more about the day-to-day style and preferences of the candidate, they should raise yellow or red flags in Lever notes if workstyle may be an issue. 
 
 For example, if an interviewer learns that someone who's going to work from a home office talks about how they've repeatedly failed to be successful in that environment in the past due to lack of supervision--despite the fact they told the recruiter that they love the environment.  
  
-##### Distributed workstyle 
+#### Distributed workstyle 
 
 Assess the candidate's proficiency in working in distributed organizations. How self-motivated are they? How strong is their written communication? What are their past successes and failures working in distributed environments? 
  
-##### Open source workstyle 
+#### Open source workstyle 
 
 To what extent have they contributed to open source projects? How comfortable are they with working online and in public? What are their successes and failures working in open source communities? 
 
-### Interview Meeting Checklist 
+#### Scoring Workstyle 
+
+---
+
+# Interview Meeting Checklist 
 
 Each interviewer should meet candidates over Zoom for interview meetings. Interviewers should be on-time and in a quiet place that has a strong internet connection. The checklist for conducting an interview is as follows: 
 
