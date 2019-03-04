@@ -68,17 +68,17 @@ The following steps outline the recruiting process. At any point, the process ma
 
 ### Posting Process
 
-1. Roles should be posted by recruiters with responsibilites and requirements clearly defined. 
+1 Roles should be posted by recruiters with responsibilites and requirements clearly defined. 
 - Each role has an "interview plan" devised by the hiring manager and recruiter that provides guidance to interviewers on the areas to cover and sequence of interviews. 
 
 ### Screening Process
 
-1. Recruiters should screen applicants based on publicly listed requirements 
+1 Recruiters should screen applicants based on publicly listed requirements 
 - Promising candidates should be screened by the recruiter for basic culture and workstyle alignment
 
 ### Interview Process 
 
-1. The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
+1 The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
 
 ### Interview Areas and Area Assignments 
 
@@ -117,7 +117,7 @@ When interviewing, a hiring manager should work with the recruiter to divide the
 
 For each area, interviewers should approach candidates with a friendly curiosity to learn about the candidate's depth of experience, breadth of perspective, and to uncover potential gaps and blindspots. Some examples of questions might be: 
 
-1. How do you approach X? 
+1 How do you approach X? 
 - Can you share an example of a difficult decision while you were doing X? 
 - How would you teach a junior person how do X? 
 - If you were leading a team with multiple people with your same skillset and role, what would you do yourself and what would you delegate? 
