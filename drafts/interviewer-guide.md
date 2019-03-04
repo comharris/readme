@@ -1,4 +1,4 @@
-# Guide to interviewing at Mattermost 
+# Interviewing Mattermost 
 
 All Mattermosters are ambassadors and guardians of our culture, and Interviewers are our "best of the best". The following guide shares  the principles, process and criteria under which Mattermost conducts its interviews for candidates and our company to mutually assess the fit with each other. 
 
@@ -54,13 +54,9 @@ The process involves staff members reading this guide thoroughly and working wit
 
 ## Principles 
 
-### Be our best 
-
-Interviewers need to be "the best of our best" in terms of their ability to assess and recruit candidates. While this can be challenging since our best people are often extremely busy, it's vital to a) keep our best people engaged in the interview process, b) ensuring hiring managers have access to the best feedback from interviewers as possible to make the best decisions. 
-
-### No "shoe-ins" 
-
-While we immensely value referrals, we should run a competitive process for every role. It helps ensure we get the best people and it's more fair to the person joining, because their colleagues will be confident they went through a full vetting process. Exceptions can be made with written sign-off from CEO for either exceptional candidates or very difficult to fill roles.
+1. High standards - Bar is high. Candidate team is well-trained, well-organized and makes strong hires   
+2. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
+3. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
 
 ## Recruiting Process
 
@@ -68,13 +64,13 @@ The following steps outline the recruiting process. At any point, the process ma
 
 ### Posting Process
 
-1 Roles should be posted by recruiters with responsibilites and requirements clearly defined. 
-- Each role has an "interview plan" devised by the hiring manager and recruiter that provides guidance to interviewers on the areas to cover and sequence of interviews. 
+1. Roles should be posted by recruiters with responsibilites and requirements clearly defined. 
+1. Each role has an "interview plan" devised by the hiring manager and recruiter that provides guidance to interviewers on the areas to cover and sequence of interviews. 
 
 ### Screening Process
 
-1 Recruiters should screen applicants based on publicly listed requirements 
-- Promising candidates should be screened by the recruiter for basic culture and workstyle alignment
+1. Recruiters should screen applicants based on publicly listed requirements 
+1. Promising candidates should be screened by the recruiter for basic culture and workstyle alignment
 
 ### Interview Process 
 
@@ -140,7 +136,6 @@ Level 1 interviewers and higher should enter their score per area into Level com
 Cultural fit for Mattermost is based on alignment to leadership principles. Unlike capabilities, which can sometimes be rapidly improved over time, cultural fit can be difficult to change, and also difficult to assess. 
 
 Paying close attention to cultural fit during the interview process is vital. 
-
 
 ##### Leadership Principles  
 
