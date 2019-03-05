@@ -1,21 +1,8 @@
-# CEO Roundtable
+# WIP: CEO Round Tables 
 
-Attendees:
+A common practice at leading companies is to have CEO Round Tables to make sure thoughts and feelings from the broader team are clearly heard. 
 
-- CEO
-- 6-8 staff members
+At Mattermost this happens over Zoom meetings with the CEO and 6-8 individual contributors. The CEO's role is to listen to feedback from the people in the meeting, ask questions to learn more, and to take notes to share with the management team. 
 
-Objectives: 
+The conversation starts with asking attendees one thing that's going well in their role and one thing that frustrates them. The focus of the conversation is to listen so information can be shared with the company leadership so challenges can be addressed by the management team, and so the CEO should refrain from attempting to solve problems or make statements in the meeting. 
 
-- Learn what to keep and what to change about how we do things
-- Maintain connection to staff  
-
-Time: 
-
-- Every 2-4 weeks for 30 minutes (exact cadence TBD)
-
-Process:
-
-- Each person shares one thing they like about how things are going, and one thing they'd like to change
-- CEO listens and does not speak except to help the meeting continue moving forward
-- CEO shares notes with leadership team during Weekly Tactical Meeting
