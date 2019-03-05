@@ -25,9 +25,24 @@
 |Block target events and travel days in CEO's calendar| EA	|	|January 20||
 |Register for target events	|AA 	|CEO, EA	|January 25|Confirmations forwarded to EA|
 |Book travel and lodging for target events| AA	|EA	|At least 60 days before event|Travel and lodging should be refundable, when possible|
-|Identify target categories of attendees (e.g. growth stage investors, prospective customers)	|CEO 	|	|At least 35 days before event||
-|Research attendees and identify members of target groups	| EA	|	|At least 28 days before event||
-|Reach out to attendees to set up meetings at event| CEO	|EA	|At least 21 days before event|Check list against target prospects|
+|Identify target groups of attendees (e.g. growth stage investors, prospective customers)	|CEO 	|	|At least 35 days before event||
+|Notify Customer Success and Sales teams of CEO event attendance to identify members of target attendee groups	| EA	|	|At least 28 days before event||
+|Reach out to attendees to set up meetings at event (sample email below)| CEO	|CS, Sales, EA	|At least 21 days before event|Check list against target prospects|
 |Coordinate with VP Marketing on materials/marketing collateral (including SWAG) 	| CEO	|EA	|At least 14 days before event||
 |Send confirmation/reminder email to attendees 	| CEO 	|EA	|2-3 days before event||
 |Pack SWAG (6+ pairs of socks), business cards, and suit	|CEO 	|	EA|2-3 days before event|Check against list provided by VP Marketing|
+
+##### Sample Email to Set CEO Meeting
+
+```
+
+Subject: [PROSPECT NAME] at [EVENT NAME] on [EVENT DATE]?
+
+Hi [Name],
+
+Just a quick question, do you know if [PROSPECT NAME] is at [EVENT NAME] on [EVENT DATE]? 
+
+Given you're preparing to roll out Mattermost, the founder/CEO of the company is at [EVENT NAME] on [LIST DATES]. 
+
+He loves to meet customers, I could help arrange a meeting if it'd be interesting, 
+```
