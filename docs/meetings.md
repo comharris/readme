@@ -7,7 +7,9 @@
 
 ### Purpose
 
-Connect informally on administrative items (Note: May ramp down in the future)
+- Connect informally on administrative items (Note: May ramp down in the future). 
+- Alert team on priority information 
+- Space after the meeting (19 minutes) can be used for deeper cross-team discussions 
 
 ## Weekly Tactical 
 
@@ -56,9 +58,9 @@ Connect informally on administrative items (Note: May ramp down in the future)
 1.  General session: Includes leads from Mattermost team, usually sales, occasionally CS, product 
 2.  Closed session: VP Finance and CEO update Board
 3.  CEO and Board: Board gives feedback to CEO
-4.  Board without CEO: Board discusses feedback among themselves, then delivers feedback to CEO
+4.  Board without CEO: Board discusses feedback among themselves, then one board member delivers feedback to CEO
 
 ## Financial Planning
 
-- Once a year
+- Once a year, with a mid-year refresh 
 - 3 months from end of fiscal year
