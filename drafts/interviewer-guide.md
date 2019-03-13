@@ -1,11 +1,12 @@
 # Hiring at Mattermost 
 
-
 ## Vision 
+
+Planning, recruiting, hiring and onboarding process to rapidly attract, align, vet, close and ramp new staff members to become high functioning contributors to their teams and to the success of our company.  
 
 ## Values 
 
-1. High standards - Bar is high. Candidate team is well-trained, well-organized and makes strong hires   
+1. High standards - Candidate team is well-trained, well-organized, well-documented and makes strong hires   
 1. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
 1. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
 
