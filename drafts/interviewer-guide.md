@@ -153,10 +153,11 @@ The following steps outline the recruiting process. At any point, the process ma
 
 In general, we have "areas" to be assessed during the interview process that are grouped into four categories: 
 
-- **Capabilities** (typically 4-8 areas) - Evaluated by colleages with expertise in the discipline we're hiring for, or working with experts in the discipline 
-- **Culture** (6 areas) - Understanding a candidate's alignment with Mattermost Leadership Principles  
-- **Chemistry** (implicitly assessed) - Poor chemistry is a reason to stop the process. Good chemistry should be neutral, never a reason to hire. 
-- **Workstyle** (2 areas to assess) - Estimating how well a candidate will work in our environment. Typically assessed by recruiters or hiring managers. 
+
+- **Capabilities** (4-8 interview areas, _assessed by interviewers_) - Evaluated by colleages with expertise in the discipline we're hiring for, or working with experts in the discipline 
+- **Culture** (6 interview areas, _assessed by interviewers_) - Understanding a candidate's alignment with Mattermost Leadership Principles  
+- **Chemistry** (flag if an issue, _assessed by all_) - Poor chemistry is a reason to stop the process. Good chemistry should be neutral, never a reason to hire. 
+- **Workstyle** (2 interview areas, _assessed by recruiter_) - Estimating how well a candidate will work in our environment. Typically assessed by recruiters or hiring managers. 
 
 Each interviewer should be able to cover 3 to 6 areas depending on the skill of the interviewer and scope of each area. Recruiters or hiring managers assign categories and segments to each interviewer. 
 
