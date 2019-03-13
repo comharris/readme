@@ -193,6 +193,8 @@ For each area, interviewers should approach candidates with a friendly curiosity
 - If you were leading a team with multiple people with your same skillset and role, what would you do yourself and what would you delegate? 
 - Can you share a story about making a mistake while doing X? What did you learn? How would you change your behavior in future? 
 
+Great candidates will be clear what they know and what they don't know. If someone claims to know and area and their answers aren't specific, ask follow-up questions. Be very careful about candidates who claim to know an area and can't go deep. 
+
 ### Scoring Capabilities 
 
 Scores for each capability area should be on a scale of 1 to 5: 
