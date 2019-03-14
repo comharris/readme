@@ -372,6 +372,8 @@ The interview process should take around 20 hours for the the candidate to get t
 
 Executive candidates should ideally come through the networks of the leadership teams, board or advisors, ideally from someone with hands-on working experience. Second best is from a strong executive recruiter with both a high quality network and candidates placed who are similar to the role we're looking to fill. 
 
+Relationships with top exec recruiters are important and long term. They are experts in their fields and have seen more candidates than anyone. 
+
 ## Process 
 
 The hiring process for a new exec should include:
@@ -394,10 +396,12 @@ Look for patterns for exec-level success:
 - Develops a clear picture of their business and organization near term as well as at least 1-2 years in the future  
 - Challenges directly while caring deeply 
 - Strong written communication and attention to detail 
+- Keenly self-aware and open about personal strengths and opportunities 
 
 Also check for anti-patterns: 
 - Is not overly concerned with title 
 - Avoids rat-holing in discussions 
+- Doesn't waste time 
 
 ## Reference checks 
 
@@ -410,9 +414,27 @@ Also check for anti-patterns:
 
 For new executives joining the team, there is a high ROI for providing time for the leader to learn about the company and build relationships ahead of taking action. 
 
-- Executives that aren't showing promise at 60 days are unlikely to recover 
+Day 1-7 - Learning 
+- Exec drafts plan and works with CEO to edit it in the first week 
+- Joins leadership team meetings 
+- Extra CEO 1-1 time (first 8 weeks)  
+  - 25m Monday and Friday meetings with CEO to mindmeld (cancel at exec's discretion) 
+  - Meetings cover company pitch, recruiting story, what's scared and other topics 
+  - Gives opportunity for exec to dig in and find the "why" behind decisions  
+- Exec may start with no directs and inherit them later after a plan is developed for each role   
 
+Day 1-30 - Planning 
+- Understand the company and the team 
+- Go through onboarding materials 
+- Use the product 
+- Build relationships and understanding with leadership team and broader team 
 
+Day 31-60 - Starting to execute 
+- Develop concrete plans 
 
+Day 61-90 
+- Start to see evidence of execution 
 
+Notes: 
+- Executives that aren't working well with the leadership team at 60 days are unlikely to recover 
 
