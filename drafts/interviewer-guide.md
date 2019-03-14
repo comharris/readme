@@ -357,6 +357,8 @@ Bringing on VPs and Senior Directors to own critical functions of the company ha
 
 The following guide has been developed based on advice and conversations with experienced CEOs and senior execs at growth stage companies. 
 
+## Criteria 
+
 At Mattermost we assess executive candidates on: 
 - Capability - Obviously a strong expert in their field 
 - Culture - Able to cleary embody our leadership principles 
@@ -365,13 +367,22 @@ At Mattermost we assess executive candidates on:
 
 The interview process should take around 20 hours for the the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in exec recruiting than any other role. 
 
+
+## Sourcing 
+
+Executive candidates should ideally come through the networks of the leadership teams, board or advisors, ideally from someone with hands-on working experience. Second best is from a strong executive recruiter with both a high quality network and candidates placed who are similar to the role we're looking to fill. 
+
+## Process 
+
 The hiring process for a new exec should include:
 
-- Extended time with CEO - This could include 1-1s, phone calls, and multiple meals and extended discussions 
+- Extended time with CEO - This could include 1-1s, phone calls, and multiple meals and extended discussions. Long phone calls on weekends are occassionally a way to find time to talk at length. 
 - 1-1s with Leadership Team Member - Candidate should meet all the leadership team in 1-1s to mutually assess potential to work together. 
 - (As appropriate) 1-1 Advisory Board meetings - Candidate may meet members of our advisory board with deep experience in candidate's domain.
 - Memo - A written answer to a question from the CEO on a challenging issue under debate internally. The ideal candidate should be able to share a concise and persuasive written opinion that would influence the CEO, leadership team and board. The memo may be a topic of discussion in interviews. 
 - Leadership Team Meeting - Candidate should participate in a leadership team meeting to simulate how the team might work day-to-day  
+
+## General Attributes 
 
 Look for patterns for exec-level success: 
 - "Wows" our team at how good they are in their domain 
