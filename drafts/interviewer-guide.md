@@ -338,16 +338,70 @@ Other:
 (3) working effectively with PM and UX
 (4) Customer Obsession 
 
-Detailed notes: 
+Additional notes: 
 
-... 
-...
-...
-
+[Add additional notes, e.g. questions and answers] 
 ```
-
 
 #### Post-interview 
 
 - If the candidate sends you a thank you note, respond to it the same day and CC the recruiter. 
+
+
+
+---
+
+# WIP: Executive Recruiting 
+
+Bringing on VPs and Senior Directors to own critical functions of the company has as much impact and risk as bringing on a new co-founder. When hiring execs, we go really, really deep. 
+
+The following guide has been developed based on advice and conversations with experienced CEOs and senior execs at growth stage companies. 
+
+At Mattermost we assess executive candidates on: 
+- Capability - Obviously a strong expert in their field 
+- Culture - Able to cleary embody our leadership principles 
+- Chemistry - Gel with CEO and leadership team 
+- Workstyle - Works well online and offline, and in open source environments  
+
+The interview process should take around 20 hours for the the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in exec recruiting than any other role. 
+
+The hiring process for a new exec should include:
+
+- Extended time with CEO - This could include 1-1s, phone calls, and multiple meals and extended discussions 
+- 1-1s with Leadership Team Member - Candidate should meet all the leadership team in 1-1s to mutually assess potential to work together. 
+- (As appropriate) 1-1 Advisory Board meetings - Candidate may meet members of our advisory board with deep experience in candidate's domain.
+- Memo - A written answer to a question from the CEO on a challenging issue under debate internally. The ideal candidate should be able to share a concise and persuasive written opinion that would influence the CEO, leadership team and board. The memo may be a topic of discussion in interviews. 
+- Leadership Team Meeting - Candidate should participate in a leadership team meeting to simulate how the team might work day-to-day  
+
+Look for patterns for exec-level success: 
+- "Wows" our team at how good they are in their domain 
+- Communicates concisely, directly and respectfully 
+- Naturally explains ambiguous, complex issues simply  
+- Shockingly good at connecting high level strategy and vital, low level details
+- Rapidly develops empathy with others 
+- Sees around corners 
+- Develops a clear picture of their business and organization near term as well as at least 1-2 years in the future  
+- Challenges directly while caring deeply 
+- Strong written communication and attention to detail 
+
+Also check for anti-patterns: 
+- Is not overly concerned with title 
+- Avoids rat-holing in discussions 
+
+## Reference checks 
+
+- Anything less than an outstanding recommendation from a reference should be a flag. 
+- If you detect a "whiff of disfunction" there should be a flag.
+- To ensure the reference is complete, make sure to ask "is there any reason why you can't fully comment on the performance of the candidate?" 
+
+
+# WIP: Executive Onboarding 
+
+For new executives joining the team, there is a high ROI for providing time for the leader to learn about the company and build relationships ahead of taking action. 
+
+- Executives that aren't showing promise at 60 days are unlikely to recover 
+
+
+
+
 
