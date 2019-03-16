@@ -348,6 +348,20 @@ Additional notes:
 - If the candidate sends you a thank you note, respond to it the same day and CC the recruiter. 
 
 
+---
+
+# WIP: Competitive Advantage through Inclusion and Diversity (CAID) 
+
+Mattermost's aims to use inclusion and diversity to increase competitive advantage: 
+
+- **An inclusive environment** enables us to attract, engage and empower outstanding talent from diverse backgrounds that competitors struggle to access. 
+- **Diversity among our colleagues** increases the speed and depth at which we can understand and capitalize on new opportunities. 
+
+We refer to this principle as Competitive Advantage through Inclusion and Diversity or "CAID".
+
+1. **People first, not country first** - Do not blindly consider policies at U.S. companies as "best practice". Empathize with colleagues outside of the U.S. Be mindful of talent from 7.5B people in the world, beyond 0.3B Americans. 
+
+2. **Recognize bias** - We are all biased. Bias can come from educational backgrounds, geographies, common friends, or other factors unrelated to potential and performance. The more recognize our own bias, the more effectively we can manage it through mindfulness and structured training. 
 
 ---
 
