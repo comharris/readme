@@ -21,6 +21,8 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 
 Time when not in meetings is for messaging, email, and individual work. 
 
+Note: CEO meets regularly with advisers. Bios and contact information can be found at https://airtable.com/shresRqSDFcqCN6lz
+
 ### Scheduling
 
 Below are guidelines for scheduling and calendaring meetings.
