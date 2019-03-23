@@ -9,19 +9,23 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 ### General guidelines: 
 
 - Meetings should be scheduled for 25 minutes on weekdays 
-- Meetings with partners or managing directors of VC firms should be scheduled for 60 minutes on weekdays
-- 1:1 meetings with leads should be scheduled for 30 minutes on weekdays and are held weekly
+- Meetings with partners or managing directors of VC firms should be scheduled for 45 minutes on weekdays
+- 1:1 meetings with department heads should be scheduled for 25 minutes on weekdays and are held bi-weekly or weekly
+- New department heads should have 1-1s on Mondays and Fridays for 45 minutes for the first 8 weeks 
 
 - The following guidelines on schedule are for San Francisco timezone: 
-  - 7am-9am SF time reserved for meetings with attendees outside North America    
-  - 9am-1pm SF time is for conventional and standing meetings  
-  - 1pm-1:30pm SF time reserved for lunch, but can book over if needed  
-  - 2pm-3:30pm SF time reserved for overflow meetings 
-  - 3:30pm-5pm SF time reserved for overflow overflow meetings 
+  - 7:00am-8:30am SF time reserved for meetings with attendees outside North America
+  - 8:30am-9:00am SF time reserved for Daily Checkin meeting     
+  - 9:00am-1:00pm SF time is for conventional and standing meetings  
+  - 1:00pm-1:30pm SF time for lunch, okay to rescheduled but avoid skipping (which can lead to unhealthy snacking)   
+  - 2:00pm-3:30pm SF time for overflow meetings 
+  - 3:30pm-5:00pm SF time for overflow overflow meetings 
 
 Time when not in meetings is for messaging, email, and individual work. 
 
-Note: CEO meets regularly with advisers. Bios and contact information can be found at https://airtable.com/shresRqSDFcqCN6lz
+### Advisers 
+
+CEO meets regularly with advisers (See bios and contacts in [access-controlled database](https://airtable.com/shresRqSDFcqCN6lz))
 
 ### Scheduling
 
