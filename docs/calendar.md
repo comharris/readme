@@ -14,10 +14,10 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 - New department heads should have 1-1s on Mondays and Fridays for 45 minutes for the first 8 weeks 
 
 - The following guidelines on schedule are for San Francisco timezone: 
-  - 7:00am-8:30am SF time reserved for meetings with attendees outside North America
+  - 7:00am-7:45am SF time reserved for meetings with attendees outside North America and interviews where other slots can't be found
   - 8:30am-9:00am SF time reserved for Daily Checkin meeting     
   - 9:00am-1:00pm SF time is for conventional and standing meetings  
-  - 1:00pm-1:30pm SF time for lunch, okay to rescheduled but avoid skipping (which can lead to unhealthy snacking)   
+  - 1:00pm-1:30pm SF time for lunch, okay to reschedule, but avoid skipping (which can lead to unhealthy snacking)   
   - 2:00pm-3:30pm SF time for overflow meetings 
   - 3:30pm-5:00pm SF time for overflow overflow meetings 
 
@@ -26,6 +26,11 @@ Time when not in meetings is for messaging, email, and individual work.
 ### Advisers 
 
 CEO meets regularly with advisers (See bios and contacts in [access-controlled database](https://airtable.com/shresRqSDFcqCN6lz))
+
+### Conferences and Events
+
+Always add an hour to calendar for CEO to network and catch up on messages before leaving a conference (See general CEO speaking and networking procedures [here](https://github.com/it33/readme/blob/master/docs/CEO-events.md))
+
 
 ### Scheduling
 
