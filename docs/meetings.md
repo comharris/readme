@@ -2,16 +2,13 @@
 
 ## MLT Daily 
 
-- Weekdays: 8:31am to 8:41am SF time
-- Audience: Department heads
+The purpose of MLT Daily is to keep our team in sync and accountable.
 
-### Purpose
-
-The purpose of MLT daily is to keep our team in sync and accountable in 10 minutes day. 
+In MLT Daily we can share: 
 
 - **Heads-Up** - Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
-- **FYI** - Top things for the day, e.g. handling escalation, interviewing VP candidate, director starting, etc. 
-- **Asks** - Ask MLT members for things, e.g. headcount plan past due, need to discuss roadmap change  
+- **FYI** - Top FYIs for yesterday or today, e.g. key hire starting, handling escalation, notes from important meeting, etc. 
+- **Asks** - Ask MLT members for things, e.g. need to escalate issue, ask for update, headcount plan past due, etc.  
 
 ### Process
 
@@ -50,7 +47,6 @@ Asks
 
 #standup-20190416 #standup
 ```
-
 
 #### MLT Sync - 8:31am to 8:41am SF time
 
