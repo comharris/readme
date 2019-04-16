@@ -1,15 +1,67 @@
 # Meetings
 
-## Daily Admin 
+## MLT Daily 
 
 - Weekdays: 8:31am to 8:41am SF time
 - Audience: Department heads
 
 ### Purpose
 
-- Connect informally on administrative items
-- Alert team on priority information 
-- Time after the meeting 8:42am to 8:55am (14 minutes) is for cross-team communication and administrative items 
+The purpose of MLT daily is to keep our team in sync and accountable in 10 minutes day. 
+
+- **Heads-Up** - Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
+- **FYI** - Top things for the day, e.g. handling escalation, interviewing VP candidate, director starting, etc. 
+- **Asks** - Ask MLT members for things, e.g. headcount plan past due, need to discuss roadmap change  
+
+### Process
+
+#### Stand-Up Post
+
+Before meeting use `/standup` command to post updates to peers in the channel of what's important. If you post incorrectly, use the "Edit" option to update. 
+
+Most updates will look something like this: 
+
+```
+##### Status Update for Tuesday 16 April 2019
+
+- Met with Alice Evans from Gartner - [Notes posted](XXX)
+- Carter Lee starts today as Director of BizOps 
+
+#standup-20190416 #standup
+```
+
+If there's a lot to talk about, use this format: 
+
+```
+##### Status Update for Tuesday 16 April 2019
+
+Heads-up 
+
+- CTO of ABC Co escalating ask for custom SAML provider, blocking purchase. Need R&D's help 
+
+FYI 
+
+- Met with Alice Evans from Gartner - [Notes posted](XXX)
+- Carter Lee starts today as Director of BizOps 
+
+Asks
+
+- @john.smith can you share where things are with the Twitter issue brought up yesterday?  
+
+#standup-20190416 #standup
+```
+
+
+#### MLT Sync - 8:31am to 8:41am SF time
+
+- Meeting starts promptly at 8:31am SF time  
+- Each MLT member has ~60s for updates 
+- Meeting ends at 8:41am SF time 
+
+#### MLT Admin - 8:42am SF time to 8:55am SF time
+
+- 8:42am to 8:55am offers 14 minutes to talk through cross-team communication and administrative items outside of meeting 
+- Use Zoom in DM channel or phone 
 
 ## Weekly Tactical 
 
