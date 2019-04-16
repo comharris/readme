@@ -7,9 +7,9 @@
 
 ### Purpose
 
-- Connect informally on administrative items (Note: May ramp down in the future). 
+- Connect informally on administrative items
 - Alert team on priority information 
-- Space after the meeting (19 minutes) can be used for deeper cross-team discussions 
+- Time after the meeting 8:42am to 8:55am (14 minutes) is for cross-team communication and administrative items 
 
 ## Weekly Tactical 
 
