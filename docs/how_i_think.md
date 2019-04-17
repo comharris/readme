@@ -48,6 +48,10 @@ Please be careful reading too much into my questions. As brainstorming discussio
 
 Signalling me with a facial expression or just letting me know if I'm difficult to understand is highly appreciated. I know how you feel. In addition to English, I speak conversational Mandarin in an accent that can make me sound more fluent than I am. I struggle when a native speaker uses advanced vocabulary.
 
+### 4. Two-way decisions are easier for me than one-way decisions 
+
+Tell me if we're making a two-way or one-way decision, and expect a two-way decision to be easier than a one-way. A two-way decision is easily reversible or testable, such as a quarterly sales incentive, testing a new marketing page, or spending engineering time on a prototype and it's generally easier for me to agree. Decisions that are difficult to reverse--equity financing, open sourcing one of our few paid features, most title promotions--are one-way, and please expect to be held to a higher standard. 
+
 ## C) Tips on working with me
 
 ### 1. I value your recommendation over equal options 
