@@ -24,9 +24,9 @@ Facts or logic can change my world view quickly. I welcome [answer-first communi
 
 My energy increases when I'm communicating with other people (including on video calls, via messaging and in person). When I am working alone for long periods of time, my energy decreases. Depending on the mix of introverts and extroverts in a conversation, I try to adjust my style to make the most of our time together.
 
-### 4. My mind thinks in systems and end games.
+### 4. My mind thinks in systems and end results.
 
-In my mind, software, businesses, art, music and people are all systems. Each has their history, parameters, dynamics and opportunities. Understanding history and current state informs the future. I think about the world in systems and [make decisions based on my estimations of the end game](reason.md).
+I think in systems. It's hard for me to evaluate an isolated tactic without understanding the principles of the overall system. For example, I can't understand why a feature would go into a certain product bundle unless I understand what is our overall purpose for product bundles, who are they for, what is the buyer also considering, etc. The strategy should define the tactic, don't let the tactic define the strategy. 
 
 ### 5. I aspire to be logical, while acknowledging that human thinking is largely emotional.
 
@@ -62,7 +62,7 @@ If I'm wrong, and things are headed for a good outcome, the easy way to flip me 
 
 - "Our key risks as [X] and our mitigations are [Y], here's a link to documentation on our process. I've queued a discussion for [Y] meeting, let me know if you want to meet before." 
 
-Feedback like "I've done this before, don't worry" and "he's doing great, trust me" worries me.
+Feedback like "I've done this before, don't worry" and "that person is doing great, trust me" worries me.
 
 ### 3. When things don't go as planned, please teach me about specifically a) what happened, b) how we'll avoid this issue in future
 
@@ -80,7 +80,7 @@ When something has failed, please AVOID answers like "Don't worry about it, it's
 
 Don't prioritize being liked over making the right decision. Hold the work up above all else. Great organizations will respect that. Leaders who care too much about being liked set a bad example.
 
-### 5. BCC me off email threads when you're taking over 
+### 5. Please BCC me off email threads when you're taking over 
 
 If you're taking over on an item, please BCC on the thread as you take it so I know it's handled, or DM me. I need something in writing so I have a "stub" to use for tracking and asking questions. If you only share verbally, I need to send you an email or DM to confirm, which is extra work for everyone. 
 
