@@ -11,7 +11,7 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 - Meetings should be scheduled for 25 minutes on weekdays 
 - Meetings with partners or managing directors of VC firms should be scheduled for 45 minutes on weekdays
 - 1:1 meetings with department heads should be scheduled for 25 minutes on weekdays and are held bi-weekly or weekly
-- New department heads should have 1-1s on Mondays and Fridays for 45 minutes for the first 8 weeks 
+- New department heads should have 1-1s on Mondays and Fridays for 25 minutes for the first 8 weeks 
 
 - The following guidelines on schedule are for San Francisco timezone: 
   - 7:00am-8:30am SF time reserved for meetings with attendees outside North America
