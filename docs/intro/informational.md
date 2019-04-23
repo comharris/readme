@@ -1,14 +1,25 @@
-# CEO Informational 
+# WIP: CEO Informational 
 
 Hi there, 
 
 I'm looking forward to meeting you for a CEO informational, 
 
-This meeting is an opportunity for us to share about the opportunity at Mattermost, to start to get to know each other, and see if a full exec hiring cycle would be appropriate on both sides. 
+This meeting is an opportunity for us to share about the opportunity at Mattermost, and to get to know each other. 
 
-Mattermost is an open source, remote-first company headquartered in Palo Alto, California. We have a sales and marketing office in San Francisco and the majority of our team distributed across the world, primarily in North America and Europe. You can learn more about our team on LinkedIn and our exec team on our bios page. 
+Mattermost is a fast-growing open core software company delivering a high trust, developer-first collaboration platform to Global 2000 enterprises. 
 
-I'm primarily based in a home office in Palo Alto, working mainly remote, and am in the San Francisco office maybe once a week when I'm not travelling. 
+- Our first product is an "open source Slack-alternative"--sometimes called "Slack for paranoid people" 
+  -  Each open source Mattermost server can host hundreds of Slack-compatible teams
+  -  Every month over 10,000 servers are downloaded ([see video](https://twitter.com/Mattermost/status/1116903841633587201))
+- Our business is "buyer-based open core". 
+  -  Our core product is free, open source and focused on developers who need a "Slack or Mattermost" as part of their toolchain
+  -  We sell an enterprise version of Mattermost with compliance features to IT departments ([see features](https://mattermost.com/pricing-feature-comparison/)). 
+- Mattermost is an open source, remote-first, communities-centered company 
+  - We aspire to open source the majority of our technology 
+
+Mattermost is an open source, distributed company located in Palo Alto, California. We have a sales and marketing office in San Francisco and the majority of our team is distributed across the world, primarily in North America and Europe. You can learn more about our team on LinkedIn and our exec team on our bios page. 
+
+As CEO, I am based out of my home office in Palo Alto and spend most of my time in online meetings, travelling to meet customers and partners, and I visit our San Francisco office a couple of times a month. 
 
 I'm looking forward to meeting you to share more about our company, 
 
