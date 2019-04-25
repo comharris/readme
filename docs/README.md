@@ -7,5 +7,6 @@ This is a README page to learn more about my workstyle prior to meeting socially
 - **Operations Info** - Administrative info in the form of [EA Handbook](calendar), and [CEO Dinners](ceo_dinners) I run in San Francisco. 
 - **Personal Info** - Where you can [learn more](more) about me outside of work. 
 
-Also, for potential team members meeting me for the first team:  
-- **[CEO Informational Pre-Reading](intro/ceo-informational)** - An introduction in informational meeting about opportunity at our company - **[CEO Interview Pre-Reading](ceo-interview)** - A page shared with candidates prior to meeting on our interview loop. 
+Also, for potential team members meeting me for the first time:  
+- **[CEO Informational Pre-Reading](intro/ceo-informational)** - An introduction in informational meeting about opportunity at our company
+- **[CEO Interview Pre-Reading](ceo-interview)** - A page shared with candidates prior to meeting on our interview loop. 
