@@ -28,6 +28,11 @@ http://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-manageme
 
 - **"Repetition is the mother of learning, that makes it the father of action, that means it's the architect of accomplishment" (Zig Ziglar)** - As leaders, when we decide on vision, strategy and values, it's vital to just repeat relentlessly to align the organization towards proper execution. 
 
+
+## Teamwork 
+
+- **Your value on a team varies as (Skill/Ego)^Effort. This is a "SEE team"** - I percieve the value of someone on a team as quotient of their SKILL divided by their EGO raised to the power of their EFFORT. The best people on a team have high skill, low ego and high effort. A low skill person can be highly valuable if they have low ego (willing to do and learn) and high effort. Avoid people with low skill, high ego. Understand that effort is an amplifier of someone's ratio of SKILL divided by EGO. 
+
 ## Art 
 
 - **"Eternity is in love with the productions of time" (William Blake)** - This is from a poem so open to interpretation. Mine is that eternity--a crazy, immortal realm we can't understand--is infatuated by what we create here on earth. I believe what seems fleeting and ephemeral to us can have a grander significance than we can imagine.
