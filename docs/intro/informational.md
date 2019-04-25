@@ -6,7 +6,7 @@ I'm looking forward to meeting you for a CEO informational,
 
 This meeting is an opportunity for us to share about the opportunity at Mattermost, and to get to know each other. 
 
-Mattermost is a fast-growing open core software company delivering a high trust, developer-first collaboration platform to Global 2000 enterprises. We announced [a $20M Series A from RedPoint in 2019](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) and brought on a new [executive leadership team](https://www.globenewswire.com/news-release/2019/03/27/1780869/0/en/Mattermost-Builds-out-Executive-Leadership-Team-Adds-Board-of-Advisors-and-Opens-San-Francisco-Office.html) to scale the business. 
+Mattermost is a fast-growing open core software company delivering a high trust collaboration platform to Global 2000 enterprises. In 2019 we announced [a $20M Series A from RedPoint in 2019](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) and brought on a new [executive leadership team](https://www.globenewswire.com/news-release/2019/03/27/1780869/0/en/Mattermost-Builds-out-Executive-Leadership-Team-Adds-Board-of-Advisors-and-Opens-San-Francisco-Office.html) to scale the business. 
 
 Here's four things to know about Mattermost: 
 
@@ -19,7 +19,9 @@ Here's four things to know about Mattermost:
      -  This includes compatible integrations via webhooks, compatible keyboard shortcuts, you can import Slack teams--you can even import Slack theme colors   
   -  Every month over 10,000 servers are downloaded ([see video](https://twitter.com/Mattermost/status/1116903841633587201))
   -  Increasingly a "Slack or Mattermost" is needed as a defacto part of DevOps toolchains  
-     -  Mattermost wins over Slack in enterprises with "high trust" teams that need: 
+     -  Mattermost and Slack offer largely the same thing: Productivity, Collaboration and Transformation 
+        -  We reduce email, speed workflows, and become a central hub for everything your teams needs 
+     -  Mattermost wins over Slack in enterprises for high trust organizations that need: 
         -  Privacy - Use of a self-managed system where usage and data remains entirely under customer control  
         -  Total data ownership - Ability to own and control all messages and files shared with no 3rd party knowledge 
         -  Control and customization - Full source code access and ability to extend and tailor functionality to user needs 
