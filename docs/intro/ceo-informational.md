@@ -2,9 +2,9 @@
 
 Hi there, 
 
-I'm looking forward to meeting you for a CEO informational, 
+Thank you for taking the time to meet me at for a CEO informational, 
 
-This meeting is an opportunity for us to share about the opportunity at Mattermost, and to get to know each other. 
+I'm excited to share about the opportunity at Mattermost, and for us to get to know each other. 
 
 A few notes about us: 
 
