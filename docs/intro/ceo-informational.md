@@ -33,9 +33,13 @@ Here's four things to know about Mattermost:
   -  The business is doing well 
 
 - Four - Mattermost is an [open source, remote-first, communities-centered company](https://docs.mattermost.com/process/handbook.html#company) based in Palo Alto and headquartered on the internet. 
-
-  -  Our CTO is in Seattle area, our VPS is in Hillsborough, VPM in Marin, VPF in San Francisco, VP People in Redwood City, and CEO is in Palo Alto. 
-  -  We do most meetings remote with monthly in-person meetings in San Francisco. 
+  -  Our CTO is in Seattle area, our VPS is in Hillsborough, VPM in Marin, VPF in San Francisco, VP People in Redwood City, and CEO is in Palo Alto
+  -  We have concentrations of people around London, Berlin, Toronto, and Washington, D.C. and a physical office for a portion of the finance, marketing and inside sales teams in San Francisco  
+  -  As a company we bring the company together annually, in partnership with our customers and open source community
+     -  In 2017 we met in Las Vegas ([see video](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=3s))
+     -  In 2018 we met in Portugal ([see video](https://www.youtube.com/watch?v=CZXaYttz3NA))
+     -  In 2019 we met in the Domnican Republic (video pending) 
+  -  The leadership team typically meets remotely with monthly in-person meetings in the San Francisco office
 
 You can read more about Mattermost online at: 
 - [Gartner Cool Vendor Report on Mattermost](https://drive.google.com/file/d/1N7KAE-IwMdUyO0O5p70LQbv15flJQ_7B/view?usp=sharing) 
