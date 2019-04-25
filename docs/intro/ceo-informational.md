@@ -1,4 +1,4 @@
-# WIP: CEO Informational 
+# CEO Informational 
 
 Hi there, 
 
