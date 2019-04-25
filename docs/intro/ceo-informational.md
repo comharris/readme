@@ -6,9 +6,23 @@ I'm looking forward to meeting you for a CEO informational,
 
 This meeting is an opportunity for us to share about the opportunity at Mattermost, and to get to know each other. 
 
-Mattermost is a fast-growing open core software company delivering a high trust collaboration platform to Global 2000 enterprises. In 2019 we announced [a $20M Series A from RedPoint in 2019](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) and brought on a new [executive leadership team](https://www.globenewswire.com/news-release/2019/03/27/1780869/0/en/Mattermost-Builds-out-Executive-Leadership-Team-Adds-Board-of-Advisors-and-Opens-San-Francisco-Office.html) to scale the business. 
+A few notes about us: 
 
-Here's four things to know about Mattermost: 
+- We're a fast-growing startup delivering a high trust, open source collaboration platform for enterprise 
+- In 2019 we announced [a $20M Series A from RedPoint](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) 
+- We just brought on a new [executive leadership team](https://www.globenewswire.com/news-release/2019/03/27/1780869/0/en/Mattermost-Builds-out-Executive-Leadership-Team-Adds-Board-of-Advisors-and-Opens-San-Francisco-Office.html) to scale the business
+
+To "see who we are": 
+
+- Check us out on [LinkedIn](https://www.linkedin.com/company/mattermost/), you can [learn about me there](https://www.linkedin.com/in/iantien/) as well
+- See how we've grown from our company meeting in [Las Vegas in 2017](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=3s) to [Lisbon in 2018](https://www.youtube.com/watch?v=CZXaYttz3NA). In 2019 we got the company together in Domnican Republic (video pending), 
+
+Ian 
+
+---
+
+
+PS: Here's four things to know about Mattermost: 
 
 - One - We are focused on disrupting the enterprise collaboration market as the open source leader 
   -  The market is expected to grow from $34.57B in 2018 to nearly $60B in 2023 with a CAGR of 11.6%
@@ -36,20 +50,13 @@ Here's four things to know about Mattermost:
   -  Our CTO is in Seattle area, our VPS is in Hillsborough, VPM in Marin, VPF in San Francisco, VP People in Redwood City, and CEO is in Palo Alto
   -  We have concentrations of people around London, Berlin, Toronto, and Washington, D.C. and a physical office for a portion of the finance, marketing and inside sales teams in San Francisco  
   -  As a company we bring the company together annually, in partnership with our customers and open source community
-     -  In 2017 we met in Las Vegas ([see video](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=3s))
-     -  In 2018 we met in Portugal ([see video](https://www.youtube.com/watch?v=CZXaYttz3NA))
-     -  In 2019 we met in the Domnican Republic (video pending) 
   -  The leadership team typically meets remotely with monthly in-person meetings in the San Francisco office
 
 You can read more about Mattermost online at: 
 - [Gartner Cool Vendor Report on Mattermost](https://drive.google.com/file/d/1N7KAE-IwMdUyO0O5p70LQbv15flJQ_7B/view?usp=sharing) 
 - [451 Research Report](https://drive.google.com/file/d/1ss3hf68ynbJOg2LmBGieHcc3ZAQKaMuU/view?usp=sharing) 
 - [Tech Republic coverage](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) on Series A announcement 
-- Company history in [Wired Magazine](https://www.wired.com/2016/03/open-source-devs-racing-build-better-versions-slack/)  
-
-I'm looking forward to meeting you to share more, 
-
-Ian 
+- [Company history in Wired Magazine](https://www.wired.com/2016/03/open-source-devs-racing-build-better-versions-slack/)  
 
 
 
