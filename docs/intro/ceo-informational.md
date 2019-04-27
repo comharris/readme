@@ -64,6 +64,4 @@ You can read more about Mattermost online at:
 - [Tech Republic coverage](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) on Series A announcement 
 - [Company history in Wired Magazine](https://www.wired.com/2016/03/open-source-devs-racing-build-better-versions-slack/)  
 
-
-
-
+Also, if we are meeting to discuss a potential VP-level role, you can read our [Executive Hiring process](http://handbook.mattermost.com/people/exec-recruiting.html) online. 
