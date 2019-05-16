@@ -25,7 +25,9 @@ Time when not in meetings is for messaging, email, and individual work.
 
 ### Advisers 
 
-CEO meets regularly with advisers (See bios and contacts in [access-controlled database](https://airtable.com/shresRqSDFcqCN6lz))
+CEO meets regularly with advisers (See bios and contacts in [access-controlled database](https://airtable.com/shresRqSDFcqCN6lz)). 
+
+**Note**: Any requests to advisers other than calendaring should include me on CC.
 
 ### Scheduling
 
