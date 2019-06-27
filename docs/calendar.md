@@ -12,13 +12,14 @@ If you're scheduling time with me, the below outlines the algorithm I try to use
 - Meetings with partners or managing directors of VC firms should be scheduled for 45 minutes on weekdays
 - 1:1 meetings with department heads should be scheduled for 25 minutes on weekdays and are held bi-weekly or weekly
 - New department heads should have 1-1s on Mondays and Fridays for 25 minutes for the first 8 weeks 
+- Existing meetings on [Canadian and US holidays](https://docs.mattermost.com/process/working-at-mattermost.html) should be rescheduled or cancelled. No additional meetings (internal or external) should be scheduled on those days.
 
 - The following guidelines on schedule are for San Francisco timezone: 
   - 0700-0830 SF time reserved for meetings with attendees outside North America
     - IMPORTANT: A 0700 or 0730 call is not normal for the CEO and occurs during breakfast with family. The morning of the meeting EA should call or message CEO between 0500 and 0645 and confirm the CEO has changed the family schedule. 
   - 0830-0900 SF time reserved for Daily Checkin meeting     
   - 0900-1300 SF time is for conventional and standing meetings  
-  - 1300-1303 SF time for lunch, okay to rescheduled but avoid skipping (which can lead to unhealthy snacking)   
+  - 1300-1330 SF time for lunch, okay to reschedule but avoid skipping (which can lead to unhealthy snacking)   
   - 1400-1530 SF time for overflow meetings 
   - 1530-1700 SF time for overflow overflow meetings 
 
